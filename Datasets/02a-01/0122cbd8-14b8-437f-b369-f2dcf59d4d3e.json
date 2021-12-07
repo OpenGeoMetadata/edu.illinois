@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/elevation-karnak-limestone",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Elevation of the Karnak Limestone [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "0122cbd8-14b8-437f-b369-f2dcf59d4d3e",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This datafile shows the general elevation of the top of the Karnak Limestone in Illinois. These 20- and/or 100-foot isolines were contoured using Geographix and Z-map Plus software. The contours were created using over 32,000 data points from the ISGS Oracle database. The data covers only those portions of the state where the formation is present and does not include any coverage outside of Illinois where the formation may be present. The data was contoured using fault lines for control and manual adjustments were made to the contours as a final refinement of the computer created contours. This data set is intended for use at a scale of 1:100,000 or greater. This data set was created as part of an effort to update some of the ISGS map products utilizing new data and software capabilities. This data set was developed in order to create an updated version of the map published by H.M. Bristol and R.H. Howard in 1976. These data are appropriate for use in local and regional thematic analysis. The data are not appropriate as a geodetic, legal or engineering base.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Structure_Karnak_Elev_20ft_2009_Ln.zip\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/elevation-karnak-limestone\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Structure_Contours/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ]
+}

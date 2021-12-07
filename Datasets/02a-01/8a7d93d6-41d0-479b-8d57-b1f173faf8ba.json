@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/coastal/habitat",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Coastal Habitat Maps [Illinois Beach State Park] (1939-2020)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "8a7d93d6-41d0-479b-8d57-b1f173faf8ba",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1939",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Derived from aerial and drone imagery. These habitat maps were created to identify and monitor coastal change along Illinois' Lake Michigan shoreline at Illinois Beach State Park. Habitat maps are provided for four study sites which the ISGS has monitored monthly since 2018 using drones.   The initial habitat boundaries are from the Illinois Natural Areas Inventory (INAI), provided in August 2018 by the Illinois Department of Natural Resources, Illinois Nature Preserves Commission, Illinois Endangered Species Protection Board, and the Natural Heritage Database. The INAI habitat surveys were conducted in 1976 for Sites 1-3; surveys for Site 4 were conducted between 2008-2011. The eastern bounds of the habitat maps, defined as the contact between vegetated habitat and Lake Michigan beach sediment, were digitized from historical aerial images (1939-2017) and modern drone images (2018-2020). The modern images were collected using an unoccupied aerial system (UAS) flown at Illinois Beach State Park under contract for the Illinois Department of Natural Resources Coastal Management Program. The historical aerial images were sourced from the Lake County, Illinois, Planning, Building, and Development Department.   The data is georeferenced to NAD83(1986) UTM Zone 16 North meters and vertical coordinates in NAVD88 meters. All activities were conducted according to Federal Aviation Administration regulations and under the Illinois Natures Preserve Commissions permit and Illinois Department of Natural Resources permission.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/coastal/habitat\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Structure_Contours/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1939-2020"
+  ]
+}

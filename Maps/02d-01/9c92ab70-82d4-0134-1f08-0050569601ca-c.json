@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/9c92ab70-82d4-0134-1f08-0050569601ca-c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Assumption quadrangle, Illinois : 15 minute series (topographic)",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "9c92ab70-82d4-0134-1f08-0050569601ca-c",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1953",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Culture and drainage in part compiled from aerial photographs taken 1950. Topography by plane-table surveys 1945 and 1951-1952.;Includes quadrangle location map.;Relief shown by contours and spot heights.;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/5443e9a0-82d7-0134-1f08-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9c92ab70-82d4-0134-1f08-0050569601ca-c/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-15T13:59:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey (U.S.)|Geological Survey Division (Urbana, Ill.)",
+  "dct_temporal_sm": [
+    "1953"
+  ]
+}

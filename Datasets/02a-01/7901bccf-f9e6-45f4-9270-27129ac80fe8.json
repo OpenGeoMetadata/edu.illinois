@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/landcover/illinois-landcover-early-1800s",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Landcover in the Early 1800s: [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "7901bccf-f9e6-45f4-9270-27129ac80fe8",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1800",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "In Illinois, the surveys began in 1804 and were largely completed by 1843. The surveyors moved across the state laying out a rectangular grid system, known as the Public Land Survey System (PLS or PLSS). They were required to keep field notebooks where they noted details about their survey (such as which kind of tree was 'blazed' or marked at the section corners), as well as notes about the quality of the landscape, mines, salt licks, watercourses, springs, mill seats and other 'remarkable and permanent things'. Once a township was finished, the surveyors were to make a map of the area. These surveys represent one of the earliest detailed maps for Illinois. They predate our county land ownership maps and atlases. These plat maps and field notebooks contain a wealth of information about what the landscape was like before the flood of settlers came into the state. Most of the over 1,700 townships in Illinois have at least one version of the original surveyor's map. Additional redrafted versions are also available for all townships. The redrafted versions were created in the 1850's at the regional GLO office in St. Louis, Missouri. Cartographers used the original maps in consultation with the field notebooks to create a more complete map of the township. It is these plat maps that the Illinois Natural History Survey used to create our Early 1800's land cover Land Cover map.",
+  "dc_format_s": "Shapefile",
+  "dc_subject_sm": [
+    "Land cover"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/INHS/Land/zips/Landcover_Early_1800.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/INHS/Landcover_Early_1800s_metadata.htm\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/landcover/illinois-landcover-early-1800s\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T21:50:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "Early 1800s"
+  ]
+}

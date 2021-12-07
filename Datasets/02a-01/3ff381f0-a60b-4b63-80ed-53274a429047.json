@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/illinois-well-headers",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Well Headers [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "3ff381f0-a60b-4b63-80ed-53274a429047",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey'"
+  ],
+  "dc_description_s": "This layer contains data describing well headers in the state of Illinois, obtained by the AASG for the Geothermal Data Project. The data table includes general information on the location of the borehole, well construction information, location uncertainty and remarks. Information sources are included in the dataset. The HeaderURI for a particular borehole is the cross-referencing link (foreign key) used to associate the borehole with web based information on the well construction, pictures or other information, specific to one feature. The data is displayed using a circle with a transparent center. Layer files containing the symbology for these data layers can be found in the AASG repository at http://repository.stategeothermaldata.org/repository/resource/98ddf901b9782a25982e01af3b068fdc/. The original data and metadata can be viewed or downloaded from the AASG repository at http://repository.stategeothermaldata.org/repository/resource/168566464e3d5f8f3cde3b9fc003f532/ or from the National Geothermal Data System website at http://search.geothermaldata.org/dataset/illinois-well-headers.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Historical_Waterflood_Areas_Py.zip\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/illinois-well-headers\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geothermal.isgs.illinois.edu/arcgis/rest/services/aasggeothermal/ILWellHeaders/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

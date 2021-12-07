@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/illinois-waterflood-units-1946-2002",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Waterflood Units [Illinois] (1946-2002)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "cf6eff4d-ca3e-422d-ad8f-58cf56bb80a7",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1946",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "The Illinois State Geological Survey (ISGS) has collected data regarding injected and produced fluids of oil payzones for over 2000 waterflood projects in Illinois. These data are not collected by any other organization and are available only at the ISGS. These data were compiled to create a comprehensive data layer that delineates boundaries of all known waterflood projects currently operating and that have operated in the past in Illinois. Outlines of individual waterflood projects were compiled from historic hand-drawn maps (1:31680) by ISGS geologists or maps (scales vary) submitted by operators. These maps were scanned and georeferenced. Waterflood projects were then digitized. Information about each waterflood project is contained in a waterflood database completed in conjunction with this data layer. Some information from the waterflood database is related as attributes. As waterflood boundaries may change over time, only a portion of a waterflood throughout its history may be digitally represented. This data layer was created as part of a U. S. Department of Energy (DOE) Preferred Upstream Maintenance Pressure (PUMP) II initiative (DEFC26-02NT15132). The data layer delineates boundaries of all known waterflood projects in Illinois in a digitial format. Waterflood information can then be used to distinguish areas that have been waterflooded from those that may not have been waterflooded. Areas not waterflooded or under-flooded can then be identified as underdeveloped areas (UDA's) which may have a high potential for economically feasible secondary oil recovery. Also, historic data is commonly used as analogs to evaluate potential of new floods. The data used in these analyses is contained in these files.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Historical_Waterflood_Areas_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS//IL_Historical_Waterflood_Areas_Py.shp_.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/illinois-waterflood-units-1946-2002\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Waterflood_Areas/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1946-2002"
+  ]
+}

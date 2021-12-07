@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/bedrock-geology-2005",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bedrock Geology [Illinois] (2005)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "c486468f-a687-4bca-9adf-146fc093dc5b",
+  "solr_geom": "ENVELOPE(-91.5827,-87.384,42.4956,36.9535)",
+  "solr_year_i": "2005",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Distribution and extent of the bedrock geologic units within Illinois. Data are as depicted on the map Bedrock Geology of Illinois (2005) by D. Kolata (compiler). ISGS, 2007.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Bedrock_Geology_500K_2005_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Bedrock_Geology_500K_2005_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/bedrock-geology-2005\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Bedrock_Geology_500K_2005/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "2005"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/major-bedrock-aquifers-within-500-feet-ground-surface",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major Bedrock Aquifers Within 500 Feet of Ground Surface [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "0c8bddd7-a3df-4c1b-9227-6bcf0f4fce2d",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This map shows the distribution of major bedrock aquifer units within 500 feet of ground surface in Illinois.  Major aquifers are capable of yielding 70 gallons of water per minute.  Potable water contains less than 2,500 milligrams per liter of total dissolved solids.  Bedrock aquifers within 500 feet of ground surface cover most of northern Illinois and are commonly overlain only by thin layers of less permeable silts and clays.  Many are directly overlain by shallow or major sand and gravel aquifers allowing direct hydrologic communication with shallower aquifer systems.   This feature class is intended to identify areas of Illinois where major bedrock aquifers exist.   The scale of these data is 1:500,000.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Maj_Bedrock_Aq_Lt_500_Ft_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Maj_Bedrock_Aq_Lt_500_Ft_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/major-bedrock-aquifers-within-500-feet-ground-surface\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

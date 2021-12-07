@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ed2b1008-2fd1-423d-9c33-d4f25eb01553",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Height Modernization (ILHMP) LiDAR Data [Henry County, Illinois] (2009)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "ed2b1008-2fd1-423d-9c33-d4f25eb01553",
+  "solr_geom": "ENVELOPE(-90.438,-89.854,41.585,41.148)",
+  "solr_year_i": "2009",
+  "dc_creator_sm": [
+    "Quantum Spatial, Inc. (formerly AeroMetric, Inc.)"
+  ],
+  "dc_description_s": "This LiDAR data is within Illinois Department of Transportation District 2 and includes Henry County, Illinois. The data is updated from its original format to LAS version 1.2. The LiDAR data was collected in May 2009 as 'Henry County, Illinois LiDAR Acquisition' - HILDOT Project No. AM151-059-06, PTB 151 Item #59. Data was acquired by Quantum Spatial as project 1090718 with an Optech ALTM Gemini sensor equipped with an inertial measuring unit (IMU) GPS receiver. The acquisition was to produce first return ASCII, bare earth ASCII, DAT and TIN files.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://clearinghouse.isgs.illinois.edu/data/elevation/illinois-height-modernization-ilhmp\"}",
+  "dct_spatial_sm": [
+    "Henry County, Illinois",
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Mixed",
+
+  "layer_modified_dt": "2021-12-07T21:51:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+
+  "dct_issued_s": "2009",
+  "dct_temporal_sm": [
+    "2009"
+  ]
+}

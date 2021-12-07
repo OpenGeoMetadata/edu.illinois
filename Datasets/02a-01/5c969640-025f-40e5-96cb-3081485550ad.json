@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/oil-gas-and-gas-storage-fields-illinois",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Oil, Gas, and Gas Storage Fields [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "5c969640-025f-40e5-96cb-3081485550ad",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Polygon outlines of Oil, Gas, and Gas Storage Fields in Illinois, with attributes for field code, field name, and field type. This is intended as a general cartographic reference for petroleum-related fields in the state, and is not a comprehensive listing nor a true areal representation. Individual small polygons resulting from the automated digital mapping process may have been removed from display, potentially affecting the visualization of certain very small fields and/or isolated producing wells. To help the oil and gas industry by delineating the general outlines of Oil, Gas, and Gas Storage Fields in Illinois. This dastaset is suitable for use at 1:24,000 scale.The Illinois State Geological Survey gratefully acknowledges the support of the Petroleum Technology Transfer Council (PTTC) in the development of this product. The PTTC is primarily funded by the U.S. Department of Energy's Office of Fossil Energy through the National Petroleum Technology Office and the National Energy Technology Lab.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Oil_Gas_GasStor_Fields_Gen_2002_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS//IL_Oil_Gas_GasStor_Fields_Gen_2002_Py.shp_.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/oil-gas-and-gas-storage-fields-illinois\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Oil_and_Gas_Fields/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

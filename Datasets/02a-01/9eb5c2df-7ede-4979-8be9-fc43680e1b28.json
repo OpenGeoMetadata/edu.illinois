@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/major-sand-and-gravel-aquifers",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major Sand and Gravel Aquifers [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "9eb5c2df-7ede-4979-8be9-fc43680e1b28",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This map shows the distribution of major sand and gravel aquifers at any depth in Illinois.  Generally, the tops of such aquifers lie within 300 feet of the surface and the bases occur within 500 feet. Major aquifers are defined as geologic units capable of yielding 70 gallons of potable water per minute.  Potable water is defined as containing less than 2,500 milligram per liter total dissolved solids.  Major sand and gravel aquifers are generally Quaternary deposits found within pre-glacial bedrock valleys or along modern streams and rivers.  They are commonly separated from shallower aquifers by layers of less permeable till or fine-grained lacustrine deposits.   This feature class is intended to identify areas of Illinois where major sand and gravel aquifers exist.   The scale of these data is 1:500,000.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Maj_Sand_And_Gravel_Aq_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Maj_Sand_And_Gravel_Aq_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/major-sand-and-gravel-aquifers\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/land-cover/land-cover-illinois-1999-2000-data",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Land Cover [Illinois] (1999-2000)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "526a4bfb-f381-44ad-bb1f-3f70d76fe28b",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1999",
+  "dc_creator_sm": [
+    "United States Department of Agriculture",
+    "National Agricultural Statistics Services",
+    "Illinois Department of Agriculture",
+    "Illinois Department of Natural Resources"
+  ],
+  "dc_description_s": "In late 1999, the U. S. Department of Agriculture National Agricultural Statistics Service (NASS), the Illinois Department of Agriculture (IDA), and the Illinois Department of Natural Resources (IDNR) began a cooperative, interagency initiative to produce statewide land cover information on a recurring basis. The Illinois Interagency Landscape Classification Project (IILCP) completed Cycle 1 of this initiative in the summer of 2002, resulting in the Land Cover of Illinois 1999-2000 inventory and associated database. The IILCP is a cooperative effort with: United States Department of Agriculture, National Agricultural Statistics Services, Illinois Department of Agriculture, and Illinois Department of Natural Resources This dataset contains files from 1999-2000 Classification (Version 2, 11-15-03) and 1999-2000: Landsat 7 ETM+ Panchromatic Image Mosaic projects.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Land/zips/lcoi_geotiff.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/lcoi_99-00b_metadata.htm\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/land-cover/land-cover-illinois-1999-2000-data\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1999-2000"
+  ]
+}

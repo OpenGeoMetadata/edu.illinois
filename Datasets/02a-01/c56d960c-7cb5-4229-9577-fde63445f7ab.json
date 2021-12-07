@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c56d960c-7cb5-4229-9577-fde63445f7ab",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Height Modernization (ILHMP) LiDAR Data [Franklin County, Illinois] (2014)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "c56d960c-7cb5-4229-9577-fde63445f7ab",
+  "solr_geom": "ENVELOPE(-89.1978,-88.6944,38.1354,37.8447)",
+  "solr_year_i": "2014",
+  "dc_creator_sm": [
+    "Surdex Corporation"
+  ],
+  "dc_description_s": "This project involved fixed wing aerial LIDAR data collected at a contractual point spacing of 1.0 meters with a actual nominal point spacing of 0.95 meters for the Illinois Counties of Perry, Franklin and Jackson totaling approximately 1,745 square miles.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://clearinghouse.isgs.illinois.edu/data/elevation/illinois-height-modernization-ilhmp\"}",
+  "dct_spatial_sm": [
+    "Franklin County, Illinois",
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Mixed",
+
+  "layer_modified_dt": "2021-12-07T21:51:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+    "2014"
+  ]
+}

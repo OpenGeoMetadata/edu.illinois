@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/potential-agricultural-chemical-contamination-aquifers",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Potential of Agricultural Chemical Contamination of Aquifers [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "5cde1dd4-f2f8-46a1-9054-f7d868d58a56",
+  "solr_geom": "ENVELOPE(-91.4244,-87.384,42.4951,36.954)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
+    "Donald A. Keefer,",
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "A statewide dataset for evaluating the potential for contamination of shallow aquifers by pesticides and nitrate. The sources of this data set were published and digitized at 1:250,000; however, the soils map and depth to aquifer map (stack-unit map) were generated from source data mapped at 1:15,000 and 1:64,000, respectively. This aquifer sensitivity map was published at 1:500,000 (statewide map), and 1:250,000 (county maps). Nominal scale is 1:250,000. ISGS.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Aquifer_Agri_Contam_Potent.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Aquifer_Agri_Contam_Potent.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/potential-agricultural-chemical-contamination-aquifers\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gismaps.sws.uiuc.edu/arcgis/rest/services/groundwater/SB_Potent_Surface/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "1995"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "America septentrionalis concinnata juxta observationes dnn Academiae regalis scientiarum et nonnullorum aliorum, et juxta annotationes recentissimas [cartographic material] / per G. de L'Isle ; G.F. Lotter, sculps.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a0fd5a80-994e-0134-2096-0050569601ca-b",
+  "solr_geom": "ENVELOPE(-126.4221,-43.5412,70.6827,5.3017)",
+  "solr_year_i": "1772",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726"
+  ],
+  "dc_description_s": "Relief shown pictorially.;1 map, colored;34 x 57 cm.",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/6b07c890-994f-0134-2096-0050569601ca-e\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b/manifest\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-15T13:59:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1772"
+  ]
+}

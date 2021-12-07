@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/reference/illinois-state-boundary",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State Boundary [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "b3f6286e-ccf7-4cbc-8872-96a367002a61",
+  "solr_geom": "ENVELOPE(-91.4244,-87.384,42.4951,36.954)",
+  "solr_year_i": "1968",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Contains the Illinois state boundary in line and polygon format. There are two versions of the data: one that includes the official state boundary portion that extends into Lake Michigan, and one that depicts the state boundary in that area as the Lake Michigan shore line. There are no user-defined attributes. ISGS, 1984 (revised 2003).",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Reference/zips/IL_BNDY_State.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_BNDY_State.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/reference/illinois-state-boundary\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Reference/PLSS_Sections/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2002",
+  "dct_temporal_sm": [
+    "1968-1979"
+  ]
+}

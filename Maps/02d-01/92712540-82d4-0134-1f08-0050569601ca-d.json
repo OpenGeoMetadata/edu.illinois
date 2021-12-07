@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/92712540-82d4-0134-1f08-0050569601ca-d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wisconsin-Illinois, Monroe quadrangle : topography",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "92712540-82d4-0134-1f08-0050569601ca-d",
+  "solr_geom": "ENVELOPE(-89.75,-89.5,42.75,42.5)",
+  "solr_year_i": "1922",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Contour interval 20 feet.;\"Surveyed in 1919-1920.\";\"Surveyed in cooperation with the States of Wisconsin and Illinois.\";Relief shown by contours and spot heights.;1 map, colored;45 x 33 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/27143ce0-82d6-0134-1f08-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/92712540-82d4-0134-1f08-0050569601ca-d/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois",
+    "Wisconsin"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-05-07T22:31:35Z",
+  "dc_publisher_s": "Geological Survey (U.S.)|Geological Survey Division (Urbana, Ill.)|Geological and Natural History Survey (Madison, Wis.)",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

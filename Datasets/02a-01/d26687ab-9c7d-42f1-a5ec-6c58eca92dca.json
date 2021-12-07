@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/structural-features-polygon-and-point-features",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Structural Features [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "d26687ab-9c7d-42f1-a5ec-6c58eca92dca",
+  "solr_geom": "ENVELOPE(-91.5054,-87.432,42.4976,37.0754)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Structural features depicted are limited to well documented, significant anticlines and domes (and the Glasford Disturbance), impact features, explosion features, Silurian reefs, and buried Precambrian hills in Illinois. Names of the features are indicated. Use in conjunction with companion data sets structclines, structfaults, and structpoly for a full representation of Plate 1 of ISGS Bulletin 100 (1993). ISGS, 1995.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Structural_Features_1995.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Structural_Features_1995.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/structural-features-polygon-and-point-features\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Quaternary_Deposits_1979/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1995",
+  "dct_temporal_sm": [
+    "1995"
+  ]
+}

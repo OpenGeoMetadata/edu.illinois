@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/coastal/UAS/IBSP",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Orthomosaic, digital elevation model, and point cloud derived from unoccupied aerial system (UAS) imagery [Illinois Beach State Park]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "9e96235d-7ad6-43d4-aa88-7a8d77b10840",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "These unoccupied aerial system (UAS, aka drone) data were collected to identify and monitor coastal change along the Lake Michigan shoreline. The orthomosaic, digital elevation model, and point cloud were derived from aerial images collected using a UAS flown at Illinois Beach State Park under contract for the Illinois Department of Natural Resources Coastal Management Program. The orthomosaic and digital elevation model are products of a bare earth classified point cloud. The data are georeferenced to NAD83(1986) UTM Zone 16 North meters and vertical coordinates in NAVD88 meters. The digital aerial images were acquired with a DJI Phantom 4 Pro 12-megapixel camera small unoccupied aerial system. Photogrammetry software with RTK-GPS acquired ground control and check points provided X, Y, and Z accuracy defined in the metadata documents and in the accompanying reports. All activities were conducted according to Federal Aviation Administration regulations and under the Illinois Natures Preserve Commission permit and Illinois Department of Natural Resources permission.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/coastal/UAS/IBSP\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Structure_Contours/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

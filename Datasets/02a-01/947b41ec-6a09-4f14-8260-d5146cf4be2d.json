@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/coarse-grained-materials-within-50-feet-ground-surface-illinois",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Coarse-grained Materials Within 50 Feet of the Ground Surface [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "947b41ec-6a09-4f14-8260-d5146cf4be2d",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This map shows the distribution of coarse-grained materials and permeable bedrock within 50 feet of ground surface in Illinois.  This includes bedrock, sand and gravel, and alluvial units with characteristics that suggest a potential to store or conduct groundwater and yield potable water to wells and springs.  It was derived from stack-unit map data. Aquifers or potential aquifers on this map are defined as sand and gravel units at least five feet thick, sandstone at least ten feet thick, and fractured limestone or dolomite at least fifteen feet thick with a lateral extent of at least one square mile.  Minor aquifers typically yield from five to seventy gallons of potable water per minute. Potable water is defined as water containing less than 2,500 mg/L of total dissolved solids.   This feature class is intended to identify areas of Illinois where there is a potential for shallow aquifers to exist.   The scale of these data is 1:250,000.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Shallow_Coarse_Materials_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Shallow_Coarse_Materials_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/coarse-grained-materials-within-50-feet-ground-surface-illinois\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Quaternary_Deposits_1979/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

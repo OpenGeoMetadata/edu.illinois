@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/coastal/bathy",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Singlebeam bathymetry [Illinois Beach State Park]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "2932db31-4a79-47cc-be66-2891fe1b4571",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Singlebeam echosounder data were collected in the nearshore of Illinois Beach State Park in Zion, IL. These data were collected under contract for the Illinois Department of Natural Resources Coastal Management Program. The areas targeted for bathymetric measurements are paired with areas targeted for UAS (unoccupied aerial system) onshore photographic measurements. Data is collected at different spatial scales: 500-m wide transects cover the entire park, while smaller subsites (paired with UAS sites) were surveyed with 100, 50, and 25-m wide transects. The bathymetric data were collected as part of a multi-year monitoring program to detect and measure lake-bottom change as it related to erosion of the lake bottom and longshore and offshore sand movement or transport.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/coastal/bathy\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILOIL/Structure_Contours/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

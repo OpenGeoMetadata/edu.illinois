@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/imagery/1937-1947-illinois-historical-aerial-photography",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Historical Aerial Photography [Illinois] (1937-1947)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "e1aa035a-46da-4136-8937-af398e2f19e3",
+  "solr_geom": "ENVELOPE(-91.5128,-87.4834,42.5647,36.9114)",
+  "solr_year_i": "1936",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Statewide aerial photographs were first acquired for Illinois from 1937 through 1947. This collection history gives details about the approximately 33,500 photographic paper prints that were scanned. The original silver nitrate film negatives were purposefully destroyed by the National Archives in the early 1980s due to deterioration and instability. An attempt to copy the negatives prior to their destruction resulted in a very poor quality replacement. Due to this fact the original photographic prints are now the best substitute for the negatives. Use of the paper prints over time has resulted in their becoming faded, worn, defaced, or lost. Access to these print collections is becoming increasingly restricted. Digitization, or print scanning, has been completed for statewide coverage of Illinois in an effort to create a lasting archive of this irreplaceable collection. The individual aerial photographs distributed here have not been georeferenced. Adjacent aerial photographs can be used for stereoscopic viewing in most areas of the state (except portions of Carroll, Piatt and Stephenson Counties).",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://clearinghouse.isgs.illinois.edu/webdocs/ilhap/county/\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/ilhap_gen.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/imagery/1937-1947-illinois-historical-aerial-photography\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.isgs.illinois.edu/arcgis/rest/services/ILHAP/ILHAP_1937_1947/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2021-12-07T21:51:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1947",
+  "dct_temporal_sm": [
+    "1936-1941"
+  ]
+}

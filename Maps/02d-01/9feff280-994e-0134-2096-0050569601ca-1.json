@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/9feff280-994e-0134-2096-0050569601ca-1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Rand McNally & Co's Illinois.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "9feff280-994e-0134-2096-0050569601ca-1",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1883",
+  "dc_creator_sm": [
+    "Rand McNally and Company"
+  ],
+  "dc_description_s": "Chicago & vicinity, Vicinity of Rock Island & Davenport.; Greenwich and Washington.;Relief shown using hachures.;Shows Illinois railroad lines.;1 map, colored;49 x 30 cm.;ca. 1:1,280,000",
+  "dc_format_s": "JPEG2000",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/48a52300-994f-0134-2096-0050569601ca-e\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9feff280-994e-0134-2096-0050569601ca-1/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-05-08T17:18:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "McNally & Co. (Chicago)",
+  "dct_temporal_sm": [
+    "1883"
+  ]
+}

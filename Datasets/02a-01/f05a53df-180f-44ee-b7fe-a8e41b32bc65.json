@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/imagery/2004-illinois-naip-digital-orthophoto-quadrangle-data",
+  "dc_rights_s": "Public",
+  "dc_title_s": "NAIP Digital Orthophoto Quadrangle Data [Illinois] (2004)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "f05a53df-180f-44ee-b7fe-a8e41b32bc65",
+  "solr_geom": "ENVELOPE(-89.3125,-89.25,37,36.9375)",
+  "solr_year_i": "2005",
+  "dc_creator_sm": [
+    "USDA-FSA-APFO Aerial Photography Field Office",
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Illinois National Agriculture Imagery Program (NAIP) Digital Orthophotography quarter Quadrangle (DOQ) data have been created for 102 counties in the Universal Transverse Mercator (UTM) coordinate system with a NAD83 datum. NAIP acquires color-infrared digital ortho imagery during the agricultural growing seasons in the continental U.S with a 2 meter ground sample distance. NAIP imagery can obtain as much as 10% cloud cover per tile. Imagery for this data collection was acquired in the months of June through September, 2004.",
+  "dc_format_s": "Raster Dataset",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://clearinghouse.isgs.illinois.edu/2004-naip-doq-files-illinois-county-utm\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/36089h32.html\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Imagery/NAIP_2004/ImageServer\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/imagery/2004-illinois-naip-digital-orthophoto-quadrangle-data\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2005",
+  "dct_temporal_sm": [
+    "2005"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/major-aquifers",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major Aquifers [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "c7cdd397-bd1e-4449-a6bb-9c9b333296f9",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This feature dataset contains feature classes that show the general areal extent of major bedrock aquifers to various depths, major sand and gravel aquifers, and potential water-bearing unconsolidated strata to a depth of 50 feet. ISGS.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Major_Aquifers.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Major_Aquifers.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/major-aquifers\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

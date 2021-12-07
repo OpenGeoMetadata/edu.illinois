@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/imagery/2005-illinois-chicago-urban-area-orthophotography",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Urban Area Orthophotography [Chicago, Illinois] (2005)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "dec4e43b-8b42-4ef0-a848-9d0b81893408",
+  "solr_geom": "ENVELOPE(-88.4926,-87.4993,42.4789,41.0057)",
+  "solr_year_i": "2005",
+  "dc_creator_sm": [
+    "U.S. Geological Survey"
+  ],
+  "dc_description_s": "Chicago Urban Area (CUA) orthoimagery data have been created for the counties of Cook, DuPage, Kane, Lake, McHenry, and Will in northeastern Illinois in two projections. These are Universal Transverse Mercator (UTM) with a NAD83 datum, Zone 16 and Illinois State Plane East Zone (SPE) with a NAD83 datum. Data were created using US Geological Survey Urban Area specifications on true-color film during the leaf-off period of spring, 2005 at a 1 foot by 1 foot resolution. Each data tile was created utilizing multiple aerial images. Images were captured on the following dates in 2005: March 28, April 4, April 8, April 14, and May 4. Programmatic details for CUA data were outlined in Illinois GIS Notes, Winter 2005.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/cua05_meta.html\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Imagery/CUA_2005/ImageServer\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/imagery/2005-illinois-chicago-urban-area-orthophotography\"}",
+  "layer_modified_dt": "2021-12-07T21:51:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ]
+}

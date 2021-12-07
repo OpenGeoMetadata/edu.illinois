@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/major-bedrock-aquifers-depths-greater-500-feet-below-ground-surface",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major Bedrock Aquifers at Depths Greater Than 500 Feet Below Ground Surface [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "0bd63c2d-22ce-407f-b07b-55afa1ad7bf9",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This map shows the distribution of major bedrock aquifer units at depths greater than 500 feet below ground surface in Illinois.  Major aquifers are capable of yielding 70 gallons of water per minute.  The data are sub-divided into (1) aquifers yielding potable water (containing less than 2,500 milligrams per liter of total dissolved solids), (2) aquifers yielding water containing from 2,500 to 10,000 milligrams per liter of total dissolved solids, and (3) aquifers yielding water containing greater than 10,000 milligrams per liter of total dissolved solids.  The map indicates that groundwater quality within deep major bedrock aquifers degrades from northwest to southeast in the northern portion of Illinois.  This degradation in water quality is due to the regional inclination of geological units toward the center of the Illinois Basin in southeastern Illinois.   This feature class is intended to identify areas of Illinois where major bedrock aquifers exist.   The scale of these data is 1:500,000.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Maj_Bedrock_Aq_Gt_500_Ft_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Maj_Bedrock_Aq_Gt_500_Ft_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/major-bedrock-aquifers-depths-greater-500-feet-below-ground-surface\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

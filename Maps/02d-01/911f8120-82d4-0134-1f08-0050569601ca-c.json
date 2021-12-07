@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/911f8120-82d4-0134-1f08-0050569601ca-c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "(Four sheets) A map of the United States of North America : drawn from a number of critical researches.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "911f8120-82d4-0134-1f08-0050569601ca-c",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1819",
+  "dc_creator_sm": [
+    "Arrowsmith, Aaron, 1750-1823"
+  ],
+  "dc_description_s": "Greenwich.;Relief shown using hachures.;\"Published as the Act directs by A. Arrowsmith, No. 10 Soho Square, Jan 1st, 1796, additions to 1802.\";\"Additions to 1819.\";Includes text and ill. of Niagara Falls.;Karpinski, L. Bibliography of the printed maps of Michigan 1804-1880, no. 58.;1 map on 4 sheets;hand col.;123 x 141 cm., on sheets 66 x 84 cm.;ca. 1:1,750,000",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/4c3d2180-82d5-0134-1f08-0050569601ca-a\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/911f8120-82d4-0134-1f08-0050569601ca-c/manifest\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2021-07-15T13:58:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "London : A. Arrowsmith",
+  "dct_temporal_sm": [
+    "1819"
+  ]
+}

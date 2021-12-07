@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a28283e0-994e-0134-2096-0050569601ca-b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Illinois, Centralia quadrangle : topography",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a28283e0-994e-0134-2096-0050569601ca-b",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Contour interval 10 feet.;\"Surveyed in 1908 and 1912.\";\"Surveyed in cooperation with the State of Illinois.\";Relief indicated by contours and spot heights.;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/b5746790-994f-0134-2096-0050569601ca-e\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a28283e0-994e-0134-2096-0050569601ca-b/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-15T14:00:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey (U.S.)|State Geological Survey (Urbana, Ill.)",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

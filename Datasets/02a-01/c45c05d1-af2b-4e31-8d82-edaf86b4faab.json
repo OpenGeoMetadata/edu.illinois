@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/imagery/1927-historical-aerial-photographs-mississippi-river",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Historical Aerial Photographs [Mississippi River] (1927)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "c45c05d1-af2b-4e31-8d82-edaf86b4faab",
+  "solr_geom": "ENVELOPE(-92.78,-88.26,44.94,37.31)",
+  "solr_year_i": "1927",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers"
+  ],
+  "dc_description_s": "Aerial photographs of the Mississippi River were acquired in 1927 as a response to the Great Mississippi Flood of 1927. This collection history gives details about why the photos were originally taken, why only part of the collection has been scanned and much more. Currently, original negatives for these photographs have not been located. Due to this fact the original photographic prints are now the best substitute for the negatives. Use of the paper prints over time has resulted in their becoming faded, worn, defaced, or lost. Access to the print collection, currently available on this website, can be obtained through the US Army Corps of Engineers - Rock Island District(link is external) (the collection does not circulate). Digitization, or print scanning, has been completed for a Pools 11 through 19 of the Upper Mississippi River in an effort to create a lasting archive of this irreplaceable collection. Other images from other Pools may be added in the future if the remaining photos become available. The aerial photographs have not been georeferenced. Photographs that overlap can be used for stereoscopic viewing.",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/imagery/1927-historical-aerial-photographs-mississippi-river\"}",
+  "dct_spatial_sm": [
+    "Illinois",
+    "Mississippi River"
+  ],
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2021-12-07T21:51:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1927"
+  ]
+}

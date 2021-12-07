@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/datasets/illinois-sinkhole-areas",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sinkhole Areas [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "370cabf1-2088-4e93-b866-623f4fa0b540",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This GIS dataset contains 138 Sinkhole Areas enclosing logical groupings off 21,799 digitized cover-collapse, karst sinkhole locations distributed across 23 Illinois counties, and is the companion dataset to the Illinois Sinkhole Points. Any neighboring Sinkhole Points within a maximum separation distance of 15,000 feet were aggregated from which individual polygons were automatically generated. Manual editing of the initial polygons was accomplished to produce the final set of Sinkhole Areas. Any Sinkhole Points situated beyond this distance parameter were considered as isolated karst sinkholes and not included within the 138 Sinkhole Areas. The primary of the Sinkhole Areas is to serve as a generalized set of polygons which can be used for mapping applications to more easily depict the major concentrations of karst sinkhole features.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/Illinois_Sinkhole_Areas.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS//Illinois_Sinkhole_Areas.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/datasets/illinois-sinkhole-areas\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T21:50:59Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

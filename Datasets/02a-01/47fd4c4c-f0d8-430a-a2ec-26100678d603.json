@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/reference/blm-illinois-public-land-survey-system",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Public Land Survey System: BLM [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "47fd4c4c-f0d8-430a-a2ec-26100678d603",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Bureau of Land Management"
+  ],
+  "dc_description_s": "The PLSS is the basis for Federal land ownership. This data includes township, range, section (first Division), and Intersected. There are four layers loaded that are scale dependant with scale dependant labels. At the smallest scales, the state boundaries appear, as the user zooms in Townships and then Section then PLSS Intersected boundaries appears. The National Map Service's data is updated quarterly but occasional delays in releases occur. Please refer to data download metadata for additional information on release date updates. https://gis.blm.gov/egisdownload/Metadata/BLM_National_PLSS.xml",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Reference/zips/IL_CadNSDI_V2.gdb_.zip\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/reference/blm-illinois-public-land-survey-system\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Reference/BLM_Natl_PLSS_CadNSDI/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

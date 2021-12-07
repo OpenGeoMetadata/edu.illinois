@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/driftless-areas",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Driftless Areas [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "f08c297b-0da0-4b06-8489-b635b3d1592f",
+  "solr_geom": "ENVELOPE(-90.8154,-88.0643,42.5107,37.108)",
+  "solr_year_i": "1994",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Driftless areas in Illinois. These areas are analogous to areas of the state where the bedrock surface is not buried by glacial drift. Data originally from the Buried Bedrock Surface map by Herzog et al. (1994). There are no user defined attribute items. ISGS, 1994 (revised 1998).",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Driftless_Areas_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Driftless_Areas_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/driftless-areas\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Driftless_Areas/MapServer/0\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T21:51:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "1994"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/illinois-municipal-water-use-2012",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Municipal Water Use [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "adfad7f6-4d24-461c-b482-355f18a7d70c",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "2012",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "The zipped folder contains datasets that depict municipal water use and water purchases throughout Illinois for the year 2012. The zipped folder contains a geodatabase of the datasets, a layer package (.lpk) file with symbology associated with each layer, and XML metadata files. The datasets include 1224 municipalities classified by water source and the network of water purchases between communities and public water distributors (i.e., water districts, water commissions, water cooperatives, water companies, etc.). Attributes include the amount of water self-supplied and purchased as reported through the Illinois Water Inventory Program. Also available is a Map Series publication in PDF format that uses the data contained in the zipped folders.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISWS/Hydrology/data/Hadley_ISWS_MapSeries_2017_01.pdf\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/illinois-municipal-water-use-2012\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ]
+}

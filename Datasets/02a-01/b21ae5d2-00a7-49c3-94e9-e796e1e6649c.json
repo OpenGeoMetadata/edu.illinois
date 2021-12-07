@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/hydrology/reservoir-observation-network",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Reservoir Observation Network [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "b21ae5d2-00a7-49c3-94e9-e796e1e6649c",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Water Survey"
+  ],
+  "dc_description_s": "The Illinois State Water Survey’s Reservoir Observation Network is a group of cooperating lake operators who report month-end water surface levels of reservoirs operated by their facility.  The network has collected 15 to 30 years of lake level data from selected lakes.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Hydrology/zips/IL_Aquifer_Agri_Contam_Potent.zip\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/hydrology/reservoir-observation-network\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gismaps.sws.uiuc.edu/arcgis/rest/services/groundwater/SB_Potent_Surface/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

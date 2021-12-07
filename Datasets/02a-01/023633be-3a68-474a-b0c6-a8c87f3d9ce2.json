@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/land-cover/usda-nass-cropland-data-layer-illinois-1999-2006",
+  "dc_rights_s": "Public",
+  "dc_title_s": "USDA-NASS Cropland Data Layer [Illinois] (1999-2006)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "023633be-3a68-474a-b0c6-a8c87f3d9ce2",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1999",
+  "dc_creator_sm": [
+    "National Agricultural Statistics Service"
+  ],
+  "dc_description_s": "The United States Department of Agriculture, National Agricultural Statistics Service (USDA-NASS) Cropland Data Layer (CDL) for Illinois is a raster, geo-referenced, categorized land cover data layer. Between 1999-2005 this data layer was produced annually using satellite imagery from the Thematic Mapper (TM) instrument on Landsat 5 and the Enhanced Thematic Mapper (ETM+) on Landsat 7. The ground resolution is 30 meters by 30 meters. Beginning in 2006, the CDL data layer uses the satellite imagery from the Indian Remote Sensing RESOURCESAT-1 Advanced Wide Field Sensor (AWiFS), which has a ground resolution of 56 x 56 meters. The Illinois Cropland Data Layer is aggregated to 13 standardized categories for display purposes with the emphasis being agricultural land cover. No individual farmer's reported data is included or derivable from the Cropland Data Layer. The NASS Cropland Data Layer(link is external) for Illinois is part of a series in which several states are categorized annually based on the extensive field observations collected during the annual NASS June Agricultural Survey. This is a national survey based on a stratified random sample of land areas selected from each state's area frame. An area frame is a land use stratification based on percent cultivation. Our field enumerators are given questionnaires to ask farmers what, where, when and how much they are planting. Our surveys focus on cropland, but the enumerators record all land covers within the sampled area of land whether it is cropland or not. NASS uses broad land use categories to define land that is not under cultivation, including; non-agricultural, pasture/rangeland, waste, woods, and farmstead.",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/land-cover/usda-nass-cropland-data-layer-illinois-1999-2006\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1999-2006"
+  ]
+}

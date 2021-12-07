@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Amplissimae regionis Mississipi seu provinciae Ludovicianae.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a210e920-994e-0134-2096-0050569601ca-f",
+  "solr_geom": "ENVELOPE(-105.2848,-59.6696,50.0232,24.409)",
+  "solr_year_i": "1759",
+  "dc_creator_sm": [
+    "Homann, Johann Baptist, 1663-1724"
+  ],
+  "dc_description_s": "Relief shown pictorially.;1 map, hand colored;49 x 58 cm.;ca. 1:6,350,000;v. 1, 1759] v. 1, part 2, no. 83.;Homann Erben. Atlas geographicvs maior. -- 1753-59 [i.e. 1784",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/96825c40-994f-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f/manifest\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_geom_type_s": "Image",
+
+  "layer_modified_dt": "2021-07-15T13:59:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Norimbergae : [Hommanian heredibus].",
+  "dct_temporal_sm": [
+    "1759"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/quaternary-deposits-1996",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Quaternary Deposits [Illinois] (1996)",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "4dbf860e-1367-426c-88dd-2f1e0c34aeac",
+  "solr_geom": "ENVELOPE(-91.5827,-87.384,42.4956,36.9535)",
+  "solr_year_i": "1996",
+  "dc_creator_sm": [
+    "Barb Stiff"
+  ],
+  "dc_description_s": "Updated version of Quaternary Deposits of Illinois. Information contained in this data set is more generalized than the 1979 version. While the 1979 version is more detailed, it lacks recent updates which have been added to the 1996 version. Attributes include geologic unit name information, unit code, and map symbol, ISGS, 1996.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Quat_Units_2500K_1996.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Quat_Units_2500K_1996.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/quaternary-deposits-1996\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Quaternary_Deposits_1979/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1996",
+  "dct_temporal_sm": [
+    "1996"
+  ]
+}

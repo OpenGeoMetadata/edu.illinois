@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/land-cover/illinois-gap-analysis-program-land-cover-classification",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gap Analysis Program Land Cover Classification [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "97f991ef-3a2f-4b6f-9d8c-e1b581e427b4",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "solr_year_i": "1999",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "The National Gap Analysis Program(link is external), administered within the Biological Resources Division of the U.S. Geological Survey, seeks to manage biodiversity at the landscape and community levels. The main goal of Gap Analysis is to prevent additional species from being listed as threatened or endangered. The program uses a \"bottom-up\" approach that allows for creativity and collaboration at the state and local governmental levels where most land management decisions are made. The intent of Gap Analysis is to provide focus and direction for proactive, rather than reactive land management activities. It is anticipated that Gap Analysis is a step toward comprehensive land management planning that transcends political boundaries. The Illinois Gap Analysis Project(link is external) (IL-GAP) is a statewide land cover classification. The project was initiated in 1996 at the Illinois Natural History Survey (INHS). The INHS has been conducting research on Illinois' biological resources since 1858, which makes it the ideal institution for conducting the state's Gap Analysis. There are four major components of IL-GAP: land cover mapping and classification, vertebrate distribution mapping and modeling, land stewardship mapping and categorization, and data analysis. The the land cover mapping and classification component is the focus of this Gap Analysis project.",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/ILgapveg_b_metadata.htm\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/land-cover/illinois-gap-analysis-program-land-cover-classification\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Imagery/Historic_Photos/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1999-2000"
+  ]
+}

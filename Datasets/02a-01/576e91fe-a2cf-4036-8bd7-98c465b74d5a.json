@@ -1,0 +1,22 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/illinois-drill-stem-tests",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Drill Stem Tests [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "576e91fe-a2cf-4036-8bd7-98c465b74d5a",
+  "solr_geom": "ENVELOPE(-91.51,-87.02,42.51,36.97)",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "This layer contains data related to drill stem tests for wells in Illinois, obtained by the AASG for the Geothermal Data Project. The data table includes general information on the location of the well, location uncertainty and test results and formation at depth. Information sources are included in the dataset. The HeaderURI for a particular well is the cross-referencing link (foreign key) used to associate the feature with web based information on the feature including pictures or other information. The data is displayed using a black circle with a lime green cross. The original data and metadata can be viewed or downloaded from the National Geothermal Data System website at http://search.geothermaldata.org/dataset/illinois-drill-stem-tests.",
+  "dc_format_s": "File",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Drift_Thickness.zip\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/illinois-drill-stem-tests\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geothermal.isgs.illinois.edu/arcgis/rest/services/aasggeothermal/ILDrillStemTests/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2021-12-07T21:51:01Z",
+  "dc_language_sm": [
+    "eng"
+  ]
+}

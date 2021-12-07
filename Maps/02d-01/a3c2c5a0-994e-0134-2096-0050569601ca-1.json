@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a3c2c5a0-994e-0134-2096-0050569601ca-1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map of Illinois and part of the Wisconsin Territory.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a3c2c5a0-994e-0134-2096-0050569601ca-1",
+  "solr_geom": "ENVELOPE(-91.6967,-86.2035,42.7963,36.7751)",
+  "solr_year_i": "1835",
+  "dc_creator_sm": [
+    "Messinger, John 1771-1846",
+    "Peck, John Mason, 1789-1858"
+  ],
+  "dc_description_s": "Engraved by Doolittle & Munson, Cincinnati, Ohio.;Shows counties, county seats, and roads.;Illinois College.;1 map, hand colored;45 x 31 cm.;ca. 1:1,600,000",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/1586e9c0-9950-0134-2096-0050569601ca-1\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a3c2c5a0-994e-0134-2096-0050569601ca-1/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois",
+    "Wisconsin"
+  ],
+  "layer_modified_dt": "2021-05-07T22:28:30Z",
+  "dc_publisher_s": "Doolittle & Munson (Cincinnati)",
+  "dct_temporal_sm": [
+    "1835"
+  ]
+}

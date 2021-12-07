@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://clearinghouse.isgs.illinois.edu/data/geology/moraines-end-moraines-wisconsin-episode",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Woodfordian Moraines [Illinois]",
+  "dct_provenance_s": "Illinois State Geological Survey",
+  "layer_slug_s": "b7ef38ce-e369-4375-a332-ec27b1e9d21c",
+  "solr_geom": "ENVELOPE(-89.7534,-87.5255,42.4957,39.3342)",
+  "solr_year_i": "1991",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ],
+  "dc_description_s": "Named Woodfordian moraines, or Wisconsinan End Moraines, of Illinois. Data originally from ISGS Bulletin 94, Pleistocene Stratigraphy of Illinois, Willman and Frye, 1970. Attributes include moraine name. ISGS, 1991 (revised 1998).",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Moraines_Py.zip\",\"http://www.w3.org/1999/xhtml\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/clearinghouse/data/metadata/ISGS/IL_Moraines_Py.html\",\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/moraines-end-moraines-wisconsin-episode\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Wisconsin_Episode_End_Moraines/MapServer\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T21:51:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "1991"
+  ]
+}
