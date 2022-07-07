@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a3e08a20-994e-0134-2096-0050569601ca-4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of the north western territory.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a3e08a20-994e-0134-2096-0050569601ca-4",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1796",
+  "dc_creator_sm": [
+    "Hill, Samual, fl. 1789-1803"
+  ],
+  "dc_description_s": "London and Philadelphia.;Relief shown pictorially and by hachures.;1 map, hand colored;19 x 24 cm.;ca.1:9,000,000;Possibly detached from Morse, Jedidiah. The American universal geography. -- Boston, 1796",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/1cb1a690-9950-0134-2096-0050569601ca-7\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a3e08a20-994e-0134-2096-0050569601ca-4/manifest\"}",
+  "dct_spatial_sm": [
+    "Northwestern Territory",
+    "Old Northwest"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Thomas & Andrews (Boston)",
+  "dct_temporal_sm": [
+    "1796"
+  ]
+}

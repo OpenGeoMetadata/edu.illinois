@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a35378c0-994e-0134-2096-0050569601ca-2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Illinois, Virginia quadrangle",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a35378c0-994e-0134-2096-0050569601ca-2",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1936",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Contour interval 10 feet.;\"Surveyed in 1928 and 1932.\"; (W 90⁰15ʹ00ʺ--W 90⁰00ʹ00ʺ/N 40⁰00ʹ00ʺ--N 39⁰45ʹ00ʺ);Relief shown by contours and spot heights.;Shows roadway classification as of 1935.;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/f869cdd0-994f-0134-2096-0050569601ca-2\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a35378c0-994e-0134-2096-0050569601ca-2/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey (U.S.)|Geological Survey Division (Urbana, Ill.)",
+  "dct_temporal_sm": [
+    "1936"
+  ]
+}

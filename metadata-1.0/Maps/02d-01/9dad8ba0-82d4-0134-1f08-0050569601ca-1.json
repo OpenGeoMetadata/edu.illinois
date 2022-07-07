@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/9dad8ba0-82d4-0134-1f08-0050569601ca-1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Illinois, Mt. Sterling quadrangle",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "9dad8ba0-82d4-0134-1f08-0050569601ca-1",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1929",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Relief shown by contours and spot heights.;\"Surveyed in 1925-1926.\";Contour interval 20 feet;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/6a18d040-82d7-0134-1f08-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9dad8ba0-82d4-0134-1f08-0050569601ca-1/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey Division (Urbana, Ill.)|Geological Survey (U.S.)",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

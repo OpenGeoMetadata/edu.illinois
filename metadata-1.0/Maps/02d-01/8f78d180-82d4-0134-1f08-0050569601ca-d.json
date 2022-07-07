@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/8f78d180-82d4-0134-1f08-0050569601ca-d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Charte von Nord America [cartographic material] : nach den neuesten Entdeckungen und zuverläfsigsten astronomischen Ortsbestimmungen entworfen / bey Joh: Walch.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "8f78d180-82d4-0134-1f08-0050569601ca-d",
+  "solr_geom": "ENVELOPE(-168.455,-52.0879,70.6714,5.0001)",
+  "solr_year_i": "1807",
+  "dc_creator_sm": [
+    "Walch, Johann, fl. 1757-1824"
+  ],
+  "dc_description_s": "7;1 map, colored;56 x 49 cm.",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/9376d500-82d6-0134-1f08-0050569601ca-6\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/8f78d180-82d4-0134-1f08-0050569601ca-d/manifest\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:45Z",
+  "dc_language_sm": [
+    "ger",
+    "spa",
+    "eng",
+    "dut",
+    "swe"
+  ],
+  "dct_temporal_sm": [
+    "1807"
+  ]
+}

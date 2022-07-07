@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a65276e0-994e-0134-2096-0050569601ca-1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A Map of Chicago's gangland from authentic sources: designed to inculcate the most important principles of piety and virtue in young persons, and graphically portray the evils and sin of large cities.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a65276e0-994e-0134-2096-0050569601ca-1",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1931",
+  "dc_creator_sm": [
+    "Bruce-Roberts, Inc. (Chicago)"
+  ],
+  "dc_description_s": "4104.C6E625 1931 B7;1 map, colored;48 x 62 cm.",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/52b13080-9950-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a65276e0-994e-0134-2096-0050569601ca-1/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T23:39:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a6e2d810-994e-0134-2096-0050569601ca-a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Charte von Nord America : nach Arrowsmith; v. Humboldt und anderen verlässigen hülfts-mitteln / entworfen von Joseph Dirwald[t]",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a6e2d810-994e-0134-2096-0050569601ca-a",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1819",
+  "dc_creator_sm": [
+    "Dirwaldt, Joseph"
+  ],
+  "dc_description_s": "Ferro.  Relief shown by hachures.  \"Verlegt in Wien bey Tranquillo Mollo.\";1 map in 4 sections, colored;82 x 113 cm. (Sections each 44 x 59 cm.)",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/7825df10-9950-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a6e2d810-994e-0134-2096-0050569601ca-a/manifest\"}",
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1819"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a36f81d0-994e-0134-2096-0050569601ca-5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mississippi River Valley",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a36f81d0-994e-0134-2096-0050569601ca-5",
+  "solr_geom": "ENVELOPE(-102.7846,-78.4203,52.3947,24.6355)",
+  "solr_year_i": "1718",
+  "dc_creator_sm": [
+    "Benard, Jacques Francois",
+    "Fer, Nicolas de, 1646-1720"
+  ],
+  "dc_description_s": "4042.M5 1718 .F3; Les costes de la Louisiane.; J. F. Benard, 1718.;PC 17721;maps and travel accounts of Illinois, no. 8.;1 map, hand colored;97 x 65 cm.;ca. 1:5,150,000",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/01f02510-9950-0134-2096-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a36f81d0-994e-0134-2096-0050569601ca-5/manifest\"}",
+  "dct_spatial_sm": [
+    "Mississippi River Valley"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1718"
+  ]
+}

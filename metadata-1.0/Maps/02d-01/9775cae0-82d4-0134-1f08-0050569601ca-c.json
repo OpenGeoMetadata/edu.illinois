@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/9775cae0-82d4-0134-1f08-0050569601ca-c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map (Chicago & North Western Railway) and Fourth Annual Report",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "9775cae0-82d4-0134-1f08-0050569601ca-c",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "Chicago and North Western Railway Company"
+  ],
+  "dc_format_s": "JPEG2000",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/f5be1f70-82d4-0134-1f08-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9775cae0-82d4-0134-1f08-0050569601ca-c/manifest\"}",
+  "layer_modified_dt": "2022-04-01T15:25:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ]
+}

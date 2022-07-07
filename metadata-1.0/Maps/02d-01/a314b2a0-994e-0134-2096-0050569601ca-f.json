@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a314b2a0-994e-0134-2096-0050569601ca-f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kenney quadrangle, Illinois : 15 minute series (topographic)",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a314b2a0-994e-0134-2096-0050569601ca-f",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1958",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Contour interval 10 feet.;\"Topography from aerial photographs by Kelsh plotter and by planetable surveys 1957. Aerial photographs taken 1956.\";Relief shown by contours and spot heights.;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/db87ecd0-994f-0134-2096-0050569601ca-1\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a314b2a0-994e-0134-2096-0050569601ca-f/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey (U.S.)|Geological Survey Division (Urbana, Ill.)",
+  "dct_temporal_sm": [
+    "1958"
+  ]
+}

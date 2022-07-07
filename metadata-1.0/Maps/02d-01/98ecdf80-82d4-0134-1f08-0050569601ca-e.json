@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Missouri-Illinois, Hannibal quadrangle",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "98ecdf80-82d4-0134-1f08-0050569601ca-e",
+  "solr_geom": "ENVELOPE(-91.5,-91.25,39.75,39.5)",
+  "solr_year_i": "1932",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Contour interval 20 feet.;\"Culture and drainage in part compiled from aerial photographs taken by Air Corps, U.S. Army.\";\"Surveyed in 1921 and 1928.\"; (W 91⁰30ʹ00ʺ--W 91⁰15ʹ00ʺ/N 39⁰45ʹ00ʺ--N 39⁰30ʹ00ʺ);Relief shown by contours and spot heights.;1 map, colored;45 x 35 cm.;1:62,500",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/ea89b8a0-82d6-0134-1f08-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois",
+    "Missouri"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Geological Survey (U.S.)|Geological Survey Division (Urbana, Ill)",
+  "dct_temporal_sm": [
+    "1932"
+  ]
+}

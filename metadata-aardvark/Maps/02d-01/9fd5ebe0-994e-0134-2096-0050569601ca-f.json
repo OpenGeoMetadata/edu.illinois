@@ -1,0 +1,57 @@
+{
+  "dct_title_s": "North America.",
+  "dct_description_sm": [
+    "Henry Stevens and Roland Tree, Comparative cartography, exemplified in an analytical & bibliographical description of nearly one hundred maps and charts of the American continent published in Great Britain during the years 1600 to 1850, no. 62a.; Greenwich, Ferro.;Relief shown by hachures.;1 map, hand colored;51 x 61 cm.;ca. 1:9,000,000"
+  ],
+  "dct_language_sm": [
+    "eng",
+    "spa"
+  ],
+  "dct_creator_sm": [
+    "Bourne, E.",
+    "Wilkinson, Robert, d. ca. 1825"
+  ],
+  "dct_publisher_sm": [
+    "R. Wilkinson (London), 12th of Aug."
+  ],
+  "schema_provider_s": "University of Illinois Urbana-Champaign",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "gbl_indexYear_im": [
+    "1804"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1804 TO 1804]"
+  ],
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "locn_geometry": "ENVELOPE(-135.0018,-52.0935,65.9047,24.8973)",
+  "dcat_bbox": "ENVELOPE(-135.0018,-52.0935,65.9047,24.8973)",
+  "dcat_centroid": "45.401,-93.54765",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "02d-01"
+  ],
+  "dct_rights_sm": [
+    "The University of Illinois Map Library requests the following acknowledgement be included when using this Historical Map: Map provided courtesy of the Map Library at the University of Illinois at Urbana-Champaign.; No Copyright - United States; http://rightsstatements.org/vocab/NoC-US/1.0/"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/464b4630-994f-0134-2096-0050569601ca-1\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9fd5ebe0-994e-0134-2096-0050569601ca-f/manifest\"}",
+  "id": "9fd5ebe0-994e-0134-2096-0050569601ca-f",
+  "dct_identifier_sm": [
+    "https://digital.library.illinois.edu/items/9fd5ebe0-994e-0134-2096-0050569601ca-f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:04Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

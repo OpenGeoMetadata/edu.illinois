@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://digital.library.illinois.edu/items/a82f8160-994e-0134-2096-0050569601ca-5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "County map of the State of Illinois.",
+  "dct_provenance_s": "University of Illinois Urbana-Champaign",
+  "layer_slug_s": "a82f8160-994e-0134-2096-0050569601ca-5",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "solr_year_i": "1861",
+  "dc_creator_sm": [
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
+  ],
+  "dc_description_s": "Plan of Chicago.;Greenwich, Washington.;1 map, colored;33 x 25 cm.;ca. 1:2,100,000;published by S. Augustus Mitchell, Jr., 1864. -- Plate 38.",
+  "dc_format_s": "JPEG2000",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/8eb19520-9950-0134-2096-0050569601ca-6\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a82f8160-994e-0134-2096-0050569601ca-5/manifest\"}",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "S. Augustus Mitchell, Jr. (Philadelphia), c1861.",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}
