@@ -28,7 +28,8 @@
     "Topography",
     "Waterloo (Ill.)",
     "Illinois",
-    "Maps"
+    "Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -42,9 +43,9 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-90.25 38.5, -90 38.5, -90 38.25, -90.25 38.25, -90.25 38.5))",
+  "dcat_bbox": "ENVELOPE(-90.25,-90,38.5,38.25)",
+  "dcat_centroid": "38.375,-90.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,11 +57,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/22495c80-82d6-0134-1f08-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/92591690-82d4-0134-1f08-0050569601ca-8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/92591690-82d4-0134-1f08-0050569601ca-8\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/92591690-82d4-0134-1f08-0050569601ca-8/manifest\"}",
   "id": "92591690-82d4-0134-1f08-0050569601ca-8",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/92591690-82d4-0134-1f08-0050569601ca-8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

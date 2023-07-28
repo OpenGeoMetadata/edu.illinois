@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Caribbean Area--Maps--Early works to 1800",
-    "North America--Maps--Early works to 1800"
+    "North America--Maps--Early works to 1800",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1772"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-126.4221,-43.5412,70.6827,5.3017)",
+  "locn_geometry": "POLYGON((-126.4221 70.6827, -43.5412 70.6827, -43.5412 5.3017, -126.4221 5.3017, -126.4221 70.6827))",
   "dcat_bbox": "ENVELOPE(-126.4221,-43.5412,70.6827,5.3017)",
   "dcat_centroid": "37.9922,-84.98165",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/6b07c890-994f-0134-2096-0050569601ca-e\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b/manifest\"}",
   "id": "a0fd5a80-994e-0134-2096-0050569601ca-b",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a0fd5a80-994e-0134-2096-0050569601ca-b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

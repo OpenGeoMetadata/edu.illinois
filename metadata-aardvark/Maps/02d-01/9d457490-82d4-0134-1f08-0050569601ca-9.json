@@ -29,7 +29,8 @@
     "Missouri",
     "Topographic maps",
     "Topography",
-    "Weingarten"
+    "Weingarten",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -44,7 +45,7 @@
     "Illinois",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-90.25,-90.0,38.0,37.75)",
+  "locn_geometry": "POLYGON((-90.25 38.0, -90.0 38.0, -90.0 37.75, -90.25 37.75, -90.25 38.0))",
   "dcat_bbox": "ENVELOPE(-90.25,-90.0,38.0,37.75)",
   "dcat_centroid": "37.875,-90.125",
   "pcdm_memberOf_sm": [
@@ -58,11 +59,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/632eee30-82d7-0134-1f08-0050569601ca-4\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9d457490-82d4-0134-1f08-0050569601ca-9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/9d457490-82d4-0134-1f08-0050569601ca-9\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9d457490-82d4-0134-1f08-0050569601ca-9/manifest\"}",
   "id": "9d457490-82d4-0134-1f08-0050569601ca-9",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9d457490-82d4-0134-1f08-0050569601ca-9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:22Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

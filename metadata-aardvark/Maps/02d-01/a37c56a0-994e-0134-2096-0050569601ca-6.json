@@ -29,7 +29,8 @@
     "Minnesota",
     "Missouri",
     "Railroads",
-    "Wisconsin"
+    "Wisconsin",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1867"
@@ -48,7 +49,7 @@
     "Wisconsin",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-96.6949,-87.2577,48.956,36.96)",
+  "locn_geometry": "POLYGON((-96.6949 48.956, -87.2577 48.956, -87.2577 36.96, -96.6949 36.96, -96.6949 48.956))",
   "dcat_bbox": "ENVELOPE(-96.6949,-87.2577,48.956,36.96)",
   "dcat_centroid": "42.958,-91.97630000000001",
   "pcdm_memberOf_sm": [
@@ -62,11 +63,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/08b15a10-9950-0134-2096-0050569601ca-4\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a37c56a0-994e-0134-2096-0050569601ca-6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a37c56a0-994e-0134-2096-0050569601ca-6\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a37c56a0-994e-0134-2096-0050569601ca-6/manifest\"}",
   "id": "a37c56a0-994e-0134-2096-0050569601ca-6",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a37c56a0-994e-0134-2096-0050569601ca-6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:45Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

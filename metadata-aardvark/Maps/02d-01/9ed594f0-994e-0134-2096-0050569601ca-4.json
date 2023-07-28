@@ -19,7 +19,7 @@
     "Cities and towns",
     "Highways",
     "Maps",
-    " 20th century",
+    "20th century",
     "Railroads",
     "Rivers",
     "Schools"
@@ -33,7 +33,7 @@
   "gbl_dateRange_drsim": [
     "[1909 TO 1909]"
   ],
-  "locn_geometry": "ENVELOPE(-88.463551,-87.928760,40.400610,39.879092)",
+  "locn_geometry": "POLYGON((-88.463551 40.400610, -87.928760 40.400610, -87.928760 39.879092, -88.463551 39.879092, -88.463551 40.400610))",
   "dcat_bbox": "ENVELOPE(-88.463551,-87.928760,40.400610,39.879092)",
   "dcat_centroid": "40.139851,-88.1961555",
   "pcdm_memberOf_sm": [
@@ -47,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/2c87da20-994f-0134-2096-0050569601ca-a\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9ed594f0-994e-0134-2096-0050569601ca-4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/9ed594f0-994e-0134-2096-0050569601ca-4\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9ed594f0-994e-0134-2096-0050569601ca-4/manifest\"}",
   "id": "9ed594f0-994e-0134-2096-0050569601ca-4",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9ed594f0-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

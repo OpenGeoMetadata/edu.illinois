@@ -27,7 +27,8 @@
     "Joliet (Ill.)",
     "Maps",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1892"
@@ -41,9 +42,9 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-88.25 41.75, -88 41.75, -88 41.5, -88.25 41.5, -88.25 41.75))",
+  "dcat_bbox": "ENVELOPE(-88.25,-88,41.75,41.5)",
+  "dcat_centroid": "41.625,-88.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +56,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/5bba82b0-82d7-0134-1f08-0050569601ca-a\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9cdf7a00-82d4-0134-1f08-0050569601ca-9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/9cdf7a00-82d4-0134-1f08-0050569601ca-9\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9cdf7a00-82d4-0134-1f08-0050569601ca-9/manifest\"}",
   "id": "9cdf7a00-82d4-0134-1f08-0050569601ca-9",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9cdf7a00-82d4-0134-1f08-0050569601ca-9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

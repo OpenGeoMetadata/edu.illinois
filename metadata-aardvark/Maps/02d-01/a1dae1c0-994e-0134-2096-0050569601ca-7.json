@@ -7,7 +7,7 @@
     "fre"
   ],
   "dct_creator_sm": [
-    "Coronelli, Vincenzo, 1650-1718."
+    "Coronelli, Vincenzo, 1650-1718"
   ],
   "dct_publisher_sm": [
     "Nolin (Paris)"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Early works to 1800",
     "Maps",
-    "North America"
+    "North America",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1689"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-126.4221,-43.5412,70.6827,5.3017)",
+  "locn_geometry": "POLYGON((-126.4221 70.6827, -43.5412 70.6827, -43.5412 5.3017, -126.4221 5.3017, -126.4221 70.6827))",
   "dcat_bbox": "ENVELOPE(-126.4221,-43.5412,70.6827,5.3017)",
   "dcat_centroid": "37.9922,-84.98165",
   "pcdm_memberOf_sm": [
@@ -50,11 +51,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/89e1daf0-994f-0134-2096-0050569601ca-3\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1dae1c0-994e-0134-2096-0050569601ca-7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a1dae1c0-994e-0134-2096-0050569601ca-7\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1dae1c0-994e-0134-2096-0050569601ca-7/manifest\"}",
   "id": "a1dae1c0-994e-0134-2096-0050569601ca-7",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a1dae1c0-994e-0134-2096-0050569601ca-7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

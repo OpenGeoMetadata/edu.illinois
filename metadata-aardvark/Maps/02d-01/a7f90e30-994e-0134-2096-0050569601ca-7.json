@@ -23,8 +23,10 @@
     "Early works to 1800",
     "Maps",
     "Northwest",
-    " Old",
-    "United States"
+    "Old",
+    "United States",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1794"
@@ -38,9 +40,9 @@
   "dct_spatial_sm": [
     "Old Northwest"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-89.4185 40.3694, -74.8726 40.3694, -74.8726 33.9044, -89.4185 33.9044, -89.4185 40.3694))",
+  "dcat_bbox": "ENVELOPE(-89.4185,-74.8726,40.3694,33.9044)",
+  "dcat_centroid": "37.1369,-82.14555",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +54,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/1a590b90-9950-0134-2096-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a7f90e30-994e-0134-2096-0050569601ca-7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a7f90e30-994e-0134-2096-0050569601ca-7\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a7f90e30-994e-0134-2096-0050569601ca-7/manifest\"}",
   "id": "a7f90e30-994e-0134-2096-0050569601ca-7",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a7f90e30-994e-0134-2096-0050569601ca-7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }
