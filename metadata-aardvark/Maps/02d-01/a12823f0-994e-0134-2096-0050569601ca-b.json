@@ -23,7 +23,8 @@
     "Early works to 1800",
     "Louisiana",
     "Maps",
-    "North America"
+    "North America",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1747"
@@ -38,7 +39,7 @@
     "Louisiana",
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-98.356,-66.979,49.1811,24.9254)",
+  "locn_geometry": "POLYGON((-98.356 49.1811, -66.979 49.1811, -66.979 24.9254, -98.356 24.9254, -98.356 49.1811))",
   "dcat_bbox": "ENVELOPE(-98.356,-66.979,49.1811,24.9254)",
   "dcat_centroid": "37.05325,-82.66749999999999",
   "pcdm_memberOf_sm": [
@@ -52,11 +53,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/71f7d180-994f-0134-2096-0050569601ca-2\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a12823f0-994e-0134-2096-0050569601ca-b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a12823f0-994e-0134-2096-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a12823f0-994e-0134-2096-0050569601ca-b/manifest\"}",
   "id": "a12823f0-994e-0134-2096-0050569601ca-b",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a12823f0-994e-0134-2096-0050569601ca-b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

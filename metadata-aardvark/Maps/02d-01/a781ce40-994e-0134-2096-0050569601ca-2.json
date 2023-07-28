@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Lewis, I. T."
+    "Lewis, I. T. (John Theophilus)"
   ],
   "dct_publisher_sm": [
     "[Cincinnati] : E. Gest (Cincinnati : Klauprech & Menzel)."
@@ -26,7 +26,9 @@
     "Kentucky",
     "Maps",
     "Ohio",
-    "Railroads"
+    "Railroads",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1853"
@@ -44,9 +46,9 @@
     "Kentucky",
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-84.7124 39.221, -84.3696 39.221, -84.3696 39.0521, -84.7124 39.0521, -84.7124 39.221))",
+  "dcat_bbox": "ENVELOPE(-84.7124,-84.3696,39.221,39.0521)",
+  "dcat_centroid": "39.13655,-84.541",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,11 +60,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/51d97c10-994f-0134-2096-0050569601ca-7\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a781ce40-994e-0134-2096-0050569601ca-2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a781ce40-994e-0134-2096-0050569601ca-2\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a781ce40-994e-0134-2096-0050569601ca-2/manifest\"}",
   "id": "a781ce40-994e-0134-2096-0050569601ca-2",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a781ce40-994e-0134-2096-0050569601ca-2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

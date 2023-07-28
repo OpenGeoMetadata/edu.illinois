@@ -19,7 +19,8 @@
   "dcat_keyword_sm": [
     "Illinois",
     "Maps",
-    "Missouri"
+    "Missouri",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1825"
@@ -34,7 +35,7 @@
     "Illinois",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-94.4333,-87.4777,42.6167,35.8833)",
+  "locn_geometry": "POLYGON((-94.4333 42.6167, -87.4777 42.6167, -87.4777 35.8833, -94.4333 35.8833, -94.4333 42.6167))",
   "dcat_bbox": "ENVELOPE(-94.4333,-87.4777,42.6167,35.8833)",
   "dcat_centroid": "39.25,-90.9555",
   "pcdm_memberOf_sm": [
@@ -48,11 +49,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/825ebe90-994f-0134-2096-0050569601ca-0\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1a85450-994e-0134-2096-0050569601ca-8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a1a85450-994e-0134-2096-0050569601ca-8\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1a85450-994e-0134-2096-0050569601ca-8/manifest\"}",
   "id": "a1a85450-994e-0134-2096-0050569601ca-8",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a1a85450-994e-0134-2096-0050569601ca-8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

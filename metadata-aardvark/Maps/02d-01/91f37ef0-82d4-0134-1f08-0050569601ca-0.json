@@ -28,7 +28,8 @@
     "Maps",
     "Topographic maps",
     "Topography",
-    "Watseka"
+    "Watseka",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1939"
@@ -43,7 +44,7 @@
     "Indiana",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.75,-87.5,41.0,40.75)",
+  "locn_geometry": "POLYGON((-87.75 41.0, -87.5 41.0, -87.5 40.75, -87.75 40.75, -87.75 41.0))",
   "dcat_bbox": "ENVELOPE(-87.75,-87.5,41.0,40.75)",
   "dcat_centroid": "40.875,-87.625",
   "pcdm_memberOf_sm": [
@@ -57,11 +58,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/1cafcc60-82d6-0134-1f08-0050569601ca-1\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/91f37ef0-82d4-0134-1f08-0050569601ca-0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/91f37ef0-82d4-0134-1f08-0050569601ca-0\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/91f37ef0-82d4-0134-1f08-0050569601ca-0/manifest\"}",
   "id": "91f37ef0-82d4-0134-1f08-0050569601ca-0",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/91f37ef0-82d4-0134-1f08-0050569601ca-0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

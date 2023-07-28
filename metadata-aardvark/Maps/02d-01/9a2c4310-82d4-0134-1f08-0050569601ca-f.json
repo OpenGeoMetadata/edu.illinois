@@ -27,7 +27,8 @@
     "Maps",
     "Shawneetown",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1960"
@@ -42,7 +43,7 @@
     "Illinois",
     "Kentucky"
   ],
-  "locn_geometry": "ENVELOPE(-88.25,-88.0,37.75,37.5)",
+  "locn_geometry": "POLYGON((-88.25 37.75, -88.0 37.75, -88.0 37.5, -88.25 37.5, -88.25 37.75))",
   "dcat_bbox": "ENVELOPE(-88.25,-88.0,37.75,37.5)",
   "dcat_centroid": "37.625,-88.125",
   "pcdm_memberOf_sm": [
@@ -56,11 +57,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/0c870360-82d7-0134-1f08-0050569601ca-2\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9a2c4310-82d4-0134-1f08-0050569601ca-f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/9a2c4310-82d4-0134-1f08-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9a2c4310-82d4-0134-1f08-0050569601ca-f/manifest\"}",
   "id": "9a2c4310-82d4-0134-1f08-0050569601ca-f",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9a2c4310-82d4-0134-1f08-0050569601ca-f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

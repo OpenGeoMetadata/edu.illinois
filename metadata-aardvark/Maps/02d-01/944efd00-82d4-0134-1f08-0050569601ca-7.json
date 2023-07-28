@@ -30,7 +30,8 @@
     "Maps",
     "Topographic maps",
     "Topography",
-    "Wisconsin"
+    "Wisconsin",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -45,7 +46,7 @@
     "Illinois",
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-88.25,-88.0,42.5,42.25)",
+  "locn_geometry": "POLYGON((-88.25 42.5, -88.0 42.5, -88.0 42.25, -88.25 42.25, -88.25 42.5))",
   "dcat_bbox": "ENVELOPE(-88.25,-88.0,42.5,42.25)",
   "dcat_centroid": "42.375,-88.125",
   "pcdm_memberOf_sm": [
@@ -59,11 +60,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/5d05e530-82d6-0134-1f08-0050569601ca-a\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/944efd00-82d4-0134-1f08-0050569601ca-7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/944efd00-82d4-0134-1f08-0050569601ca-7\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/944efd00-82d4-0134-1f08-0050569601ca-7/manifest\"}",
   "id": "944efd00-82d4-0134-1f08-0050569601ca-7",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/944efd00-82d4-0134-1f08-0050569601ca-7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

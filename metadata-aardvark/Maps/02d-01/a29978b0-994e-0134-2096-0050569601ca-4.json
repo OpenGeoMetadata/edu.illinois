@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Colton, Joseph Hutchins, 1800-1893."
+    "Colton, J. H. (Joseph Hutchins), 1800-1893"
   ],
   "dct_publisher_sm": [
     "J.H. Colton (New York)"
@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Maps",
     "Middle West",
-    "Railroads"
+    "Railroads",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Middle West"
   ],
-  "locn_geometry": "ENVELOPE(-98.7168,-79.9961,47.2434,36.8374)",
+  "locn_geometry": "POLYGON((-98.7168 47.2434, -79.9961 47.2434, -79.9961 36.8374, -98.7168 36.8374, -98.7168 47.2434))",
   "dcat_bbox": "ENVELOPE(-98.7168,-79.9961,47.2434,36.8374)",
   "dcat_centroid": "42.040400000000005,-89.35645",
   "pcdm_memberOf_sm": [
@@ -50,11 +51,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/babd8980-994f-0134-2096-0050569601ca-6\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a29978b0-994e-0134-2096-0050569601ca-4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a29978b0-994e-0134-2096-0050569601ca-4\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a29978b0-994e-0134-2096-0050569601ca-4/manifest\"}",
   "id": "a29978b0-994e-0134-2096-0050569601ca-4",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a29978b0-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

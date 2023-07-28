@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bellin, Jacques Nicolas, 1703-1772"
+    "Bellin, Jacques Nicolas, 1703-1773"
   ],
   "dct_publisher_sm": [
     "[J.N. Bellin (Paris)]"
@@ -23,7 +23,9 @@
     "Early works to 1800",
     "Great Lakes",
     "Maps",
-    "New France"
+    "New France",
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "1755"
@@ -38,9 +40,9 @@
     "Great Lakes",
     "New France"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-92.2 48.77, -76.01 48.77, -76.01 41.22, -92.2 41.22, -92.2 48.77))",
+  "dcat_bbox": "ENVELOPE(-92.2,-76.01,48.77,41.22)",
+  "dcat_centroid": "44.995000000000005,-84.105",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +54,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/341b0460-9950-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a4b43530-994e-0134-2096-0050569601ca-c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a4b43530-994e-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a4b43530-994e-0134-2096-0050569601ca-c/manifest\"}",
   "id": "a4b43530-994e-0134-2096-0050569601ca-c",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a4b43530-994e-0134-2096-0050569601ca-c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -30,7 +30,8 @@
     "Lake County (Ind.)",
     "Maps",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1901"
@@ -45,9 +46,9 @@
     "Illinois",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-87.75 41.75, -87.5 41.75, -87.5 41.5, -87.75 41.5, -87.75 41.75))",
+  "dcat_bbox": "ENVELOPE(-87.75,-87.5,41.75,41.5)",
+  "dcat_centroid": "41.625,-87.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,11 +60,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/7e8a8690-9950-0134-2096-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a70a15d0-994e-0134-2096-0050569601ca-c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a70a15d0-994e-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a70a15d0-994e-0134-2096-0050569601ca-c/manifest\"}",
   "id": "a70a15d0-994e-0134-2096-0050569601ca-c",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a70a15d0-994e-0134-2096-0050569601ca-c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

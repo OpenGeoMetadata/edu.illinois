@@ -30,7 +30,8 @@
     "Missouri",
     "Renault (Ill.)",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1943"
@@ -45,7 +46,7 @@
     "Illinois",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-90.25,-90.0,38.25,38.0)",
+  "locn_geometry": "POLYGON((-90.25 38.25, -90.0 38.25, -90.0 38.0, -90.25 38.0, -90.25 38.25))",
   "dcat_bbox": "ENVELOPE(-90.25,-90.0,38.25,38.0)",
   "dcat_centroid": "38.125,-90.125",
   "pcdm_memberOf_sm": [
@@ -59,11 +60,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/4d1158a0-82d7-0134-1f08-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9c292460-82d4-0134-1f08-0050569601ca-c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/9c292460-82d4-0134-1f08-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/9c292460-82d4-0134-1f08-0050569601ca-c/manifest\"}",
   "id": "9c292460-82d4-0134-1f08-0050569601ca-c",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9c292460-82d4-0134-1f08-0050569601ca-c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:38Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

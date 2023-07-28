@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Maps",
     "North America",
-    "Early works to 1800"
+    "Early works to 1800",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1759"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-105.2848,-59.6696,50.0232,24.409)",
+  "locn_geometry": "POLYGON((-105.2848 50.0232, -59.6696 50.0232, -59.6696 24.409, -105.2848 24.409, -105.2848 50.0232))",
   "dcat_bbox": "ENVELOPE(-105.2848,-59.6696,50.0232,24.409)",
   "dcat_centroid": "37.2161,-82.47720000000001",
   "pcdm_memberOf_sm": [
@@ -50,11 +51,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/96825c40-994f-0134-2096-0050569601ca-c\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f/manifest\"}",
   "id": "a210e920-994e-0134-2096-0050569601ca-f",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a210e920-994e-0134-2096-0050569601ca-f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

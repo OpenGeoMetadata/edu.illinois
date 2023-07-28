@@ -22,8 +22,11 @@
     "Maps",
     "Michigan",
     "Northwest",
-    " Old",
-    "Ohio"
+    "Old",
+    "Ohio",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1814"
@@ -41,9 +44,9 @@
     "Northwest Territories",
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-95.45 49.86, -82.12 49.86, -82.12 36.87, -95.45 36.87, -95.45 49.86))",
+  "dcat_bbox": "ENVELOPE(-95.45,-82.12,49.86,36.87)",
+  "dcat_centroid": "43.364999999999995,-88.785",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,11 +58,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/723a8ad0-9950-0134-2096-0050569601ca-0\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a6c3d650-994e-0134-2096-0050569601ca-b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a6c3d650-994e-0134-2096-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a6c3d650-994e-0134-2096-0050569601ca-b/manifest\"}",
   "id": "a6c3d650-994e-0134-2096-0050569601ca-b",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a6c3d650-994e-0134-2096-0050569601ca-b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:03Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

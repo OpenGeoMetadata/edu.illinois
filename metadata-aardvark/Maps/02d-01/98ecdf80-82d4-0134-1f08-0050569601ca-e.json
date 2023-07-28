@@ -29,7 +29,8 @@
     "Maps",
     "Missouri",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1932"
@@ -44,7 +45,7 @@
     "Illinois",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-91.5,-91.25,39.75,39.5)",
+  "locn_geometry": "POLYGON((-91.5 39.75, -91.25 39.75, -91.25 39.5, -91.5 39.5, -91.5 39.75))",
   "dcat_bbox": "ENVELOPE(-91.5,-91.25,39.75,39.5)",
   "dcat_centroid": "39.625,-91.375",
   "pcdm_memberOf_sm": [
@@ -58,11 +59,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/ea89b8a0-82d6-0134-1f08-0050569601ca-b\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e/manifest\"}",
   "id": "98ecdf80-82d4-0134-1f08-0050569601ca-e",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/98ecdf80-82d4-0134-1f08-0050569601ca-e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -29,7 +29,8 @@
     "Iowa",
     "Maps",
     "Topographic maps",
-    "Topography"
+    "Topography",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -43,9 +44,9 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
-  "dcat_centroid": "0.0,0.0",
+  "locn_geometry": "POLYGON((-88.75 38, -88.5 38, -88.5 37.75, -88.75 37.75, -88.75 38))",
+  "dcat_bbox": "ENVELOPE(-88.75,-88.5,38,37.75)",
+  "dcat_centroid": "37.875,-88.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,11 +58,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG2000",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://digital.library.illinois.edu/binaries/8852d350-994f-0134-2096-0050569601ca-5\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1c6f270-994e-0134-2096-0050569601ca-3/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.library.illinois.edu/items/a1c6f270-994e-0134-2096-0050569601ca-3\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.library.illinois.edu/items/a1c6f270-994e-0134-2096-0050569601ca-3/manifest\"}",
   "id": "a1c6f270-994e-0134-2096-0050569601ca-3",
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a1c6f270-994e-0134-2096-0050569601ca-3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }
