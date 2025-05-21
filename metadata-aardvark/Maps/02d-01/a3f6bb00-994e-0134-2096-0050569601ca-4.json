@@ -28,8 +28,7 @@
     "Illinois",
     "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1918"
@@ -43,8 +42,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-89.5 42, -89.25 42, -89.25 41.75, -89.5 41.75, -89.5 42))",
-  "dcat_bbox": "ENVELOPE(-89.5,-89.25,42,41.75)",
+  "locn_geometry": "POLYGON((-89.500 42.000, -89.250 42.000, -89.250 41.750, -89.500 41.750, -89.500 42.000))",
+  "dcat_bbox": "ENVELOPE(-89.500,-89.250,42.000,41.750)",
   "dcat_centroid": "41.875,-89.375",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +61,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a3f6bb00-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

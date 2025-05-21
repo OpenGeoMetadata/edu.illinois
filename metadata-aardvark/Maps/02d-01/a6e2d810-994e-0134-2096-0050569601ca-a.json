@@ -14,9 +14,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "South America--Maps",
-    "2022-creator-sprint",
-    "202212bbox"
+    "South America--Maps"
   ],
   "dct_temporal_sm": [
     "1819"
@@ -49,6 +47,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a6e2d810-994e-0134-2096-0050569601ca-a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -23,9 +23,7 @@
     "Early works to 1800",
     "Maps",
     "New France",
-    "North America",
-    "2022-creator-sprint",
-    "202212bbox"
+    "North America"
   ],
   "dct_temporal_sm": [
     "1703"
@@ -60,6 +58,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9fc46070-994e-0134-2096-0050569601ca-8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

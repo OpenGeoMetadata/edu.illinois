@@ -24,8 +24,7 @@
     "Iowa",
     "Maps",
     "Minnesota",
-    "Wisconsin",
-    "2022-creator-sprint"
+    "Wisconsin"
   ],
   "dct_temporal_sm": [
     "1857"
@@ -42,9 +41,9 @@
     "Minnesota",
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-97.5566 47.5928, -86.1418 47.5928, -86.1418 36.8814, -97.5566 36.8814, -97.5566 47.5928))",
-  "dcat_bbox": "ENVELOPE(-97.5566,-86.1418,47.5928,36.8814)",
-  "dcat_centroid": "42.2371,-91.8492",
+  "locn_geometry": "POLYGON((-97.557 47.593, -86.142 47.593, -86.142 36.881, -97.557 36.881, -97.557 47.593))",
+  "dcat_bbox": "ENVELOPE(-97.557,-86.142,47.593,36.881)",
+  "dcat_centroid": "42.237,-91.8495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -61,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a02a3c00-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

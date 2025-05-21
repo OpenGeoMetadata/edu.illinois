@@ -23,10 +23,7 @@
     "Michigan",
     "Northwest",
     "Old",
-    "Ohio",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
+    "Ohio"
   ],
   "dct_temporal_sm": [
     "1814"
@@ -63,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a6c3d650-994e-0134-2096-0050569601ca-b"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

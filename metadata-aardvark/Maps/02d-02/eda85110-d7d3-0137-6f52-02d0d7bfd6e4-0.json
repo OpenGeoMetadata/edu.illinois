@@ -25,9 +25,6 @@
   "gbl_resourceType_sm": [
     "Fire insurance maps"
   ],
-  "dcat_keyword_sm": [
-    "W 88°18ʹ31ʺ/N 41°54ʹ51ʺ"
-  ],
   "dct_temporal_sm": [
     "1923"
   ],
@@ -67,6 +64,5 @@
     "oai:digital.library.illinois.edu:eda85110-d7d3-0137-6f52-02d0d7bfd6e4-0",
     "7409623"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

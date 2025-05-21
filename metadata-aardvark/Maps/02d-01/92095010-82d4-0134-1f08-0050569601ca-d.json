@@ -27,8 +27,7 @@
     "Maps",
     "Peoria (Ill.)",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -61,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/92095010-82d4-0134-1f08-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -19,8 +19,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "North America",
-    "2022-creator-sprint"
+    "North America"
   ],
   "dct_temporal_sm": [
     "1804"
@@ -34,9 +33,9 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((-135.0018 65.9047, -52.0935 65.9047, -52.0935 24.8973, -135.0018 24.8973, -135.0018 65.9047))",
-  "dcat_bbox": "ENVELOPE(-135.0018,-52.0935,65.9047,24.8973)",
-  "dcat_centroid": "45.401,-93.54765",
+  "locn_geometry": "POLYGON((-135.002 65.905, -52.093 65.905, -52.093 24.897, -135.002 24.897, -135.002 65.905))",
+  "dcat_bbox": "ENVELOPE(-135.002,-52.093,65.905,24.897)",
+  "dcat_centroid": "45.400999999999996,-93.54750000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +52,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9fd5ebe0-994e-0134-2096-0050569601ca-f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

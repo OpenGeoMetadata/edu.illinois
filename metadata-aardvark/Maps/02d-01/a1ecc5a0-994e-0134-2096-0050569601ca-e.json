@@ -25,8 +25,7 @@
     "Kansas (Ill.)",
     "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -40,8 +39,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-88 39.75, -87.75 39.75, -87.75 39.5, -88 39.5, -88 39.75))",
-  "dcat_bbox": "ENVELOPE(-88,-87.75,39.75,39.5)",
+  "locn_geometry": "POLYGON((-88.000 39.750, -87.750 39.750, -87.750 39.500, -88.000 39.500, -88.000 39.750))",
+  "dcat_bbox": "ENVELOPE(-88.000,-87.750,39.750,39.500)",
   "dcat_centroid": "39.625,-87.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -59,6 +58,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a1ecc5a0-994e-0134-2096-0050569601ca-e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

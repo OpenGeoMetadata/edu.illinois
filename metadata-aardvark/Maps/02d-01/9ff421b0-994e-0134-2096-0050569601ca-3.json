@@ -31,8 +31,7 @@
     "Topographic maps",
     "Topography",
     "Winnebago County (Ill.)",
-    "Wisconsin",
-    "2022-creator-sprint"
+    "Wisconsin"
   ],
   "dct_temporal_sm": [
     "1918"
@@ -66,6 +65,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9ff421b0-994e-0134-2096-0050569601ca-3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

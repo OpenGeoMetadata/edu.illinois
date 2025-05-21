@@ -25,8 +25,7 @@
   "dcat_keyword_sm": [
     "Early works to 1800",
     "Maps",
-    "Mississippi River Valley",
-    "2022-creator-sprint"
+    "Mississippi River Valley"
   ],
   "dct_temporal_sm": [
     "1720"
@@ -40,9 +39,9 @@
   "dct_spatial_sm": [
     "Mississippi River Valley"
   ],
-  "locn_geometry": "POLYGON((-102.7846 50.5488, -84.2472 50.5488, -84.2472 25.8024, -102.7846 25.8024, -102.7846 50.5488))",
-  "dcat_bbox": "ENVELOPE(-102.7846,-84.2472,50.5488,25.8024)",
-  "dcat_centroid": "38.1756,-93.5159",
+  "locn_geometry": "POLYGON((-102.785 50.549, -84.247 50.549, -84.247 25.802, -102.785 25.802, -102.785 50.549))",
+  "dcat_bbox": "ENVELOPE(-102.785,-84.247,50.549,25.802)",
+  "dcat_centroid": "38.1755,-93.51599999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +58,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9fe06050-994e-0134-2096-0050569601ca-0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

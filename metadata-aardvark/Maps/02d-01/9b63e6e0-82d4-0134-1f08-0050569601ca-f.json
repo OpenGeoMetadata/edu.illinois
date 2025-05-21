@@ -19,11 +19,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Maps",
     "Northwest",
-    "Old",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Old"
   ],
   "dct_temporal_sm": [
     "1817"
@@ -60,6 +57,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9b63e6e0-82d4-0134-1f08-0050569601ca-f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -28,8 +28,7 @@
     "Maps",
     "Topography",
     "Topographic maps",
-    "Divernon (Ill.)",
-    "2022-creator-sprint"
+    "Divernon (Ill.)"
   ],
   "dct_temporal_sm": [
     "1957"
@@ -62,6 +61,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9578ca90-82d4-0134-1f08-0050569601ca-e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

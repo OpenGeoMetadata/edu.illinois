@@ -28,8 +28,7 @@
     "Maps",
     "Milford",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1944"
@@ -63,6 +62,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/921fb660-82d4-0134-1f08-0050569601ca-9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

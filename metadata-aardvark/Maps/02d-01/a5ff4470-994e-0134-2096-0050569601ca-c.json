@@ -17,10 +17,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Maps",
-    "West (U.S.)",
-    "2022-creator-sprint",
-    "202212bbox"
+    "West (U.S.)"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -53,6 +50,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a5ff4470-994e-0134-2096-0050569601ca-c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

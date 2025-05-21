@@ -24,10 +24,8 @@
     "Crete (Ill.)",
     "Illinois",
     "Indiana",
-    "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -61,6 +59,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9dbe04e0-82d4-0134-1f08-0050569601ca-1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

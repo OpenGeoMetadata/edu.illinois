@@ -26,10 +26,8 @@
     "Clinton (Ill.)",
     "Illinois",
     "Iowa",
-    "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -43,8 +41,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-90.25 42, -90 42, -90 41.75, -90.25 41.75, -90.25 42))",
-  "dcat_bbox": "ENVELOPE(-90.25,-90,42,41.75)",
+  "locn_geometry": "POLYGON((-90.250 42.000, -90.000 42.000, -90.000 41.750, -90.250 41.750, -90.250 42.000))",
+  "dcat_bbox": "ENVELOPE(-90.250,-90.000,42.000,41.750)",
   "dcat_centroid": "41.875,-90.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/955cb830-82d4-0134-1f08-0050569601ca-3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

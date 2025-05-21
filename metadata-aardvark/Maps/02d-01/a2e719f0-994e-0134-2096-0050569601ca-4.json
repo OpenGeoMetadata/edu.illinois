@@ -16,9 +16,7 @@
   "dcat_keyword_sm": [
     "Chicago (Ill.)",
     "Illinois",
-    "Maps",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1870"
@@ -32,9 +30,9 @@
   "dct_spatial_sm": [
     "Illinois--Chicago"
   ],
-  "locn_geometry": "POLYGON((-87.662738 41.914597, -87.594417 41.914597, -87.594417 41.840465, -87.662738 41.840465, -87.662738 41.914597))",
-  "dcat_bbox": "ENVELOPE(-87.662738,-87.594417,41.914597,41.840465)",
-  "dcat_centroid": "41.877531000000005,-87.6285775",
+  "locn_geometry": "POLYGON((-87.663 41.915, -87.594 41.915, -87.594 41.840, -87.663 41.840, -87.663 41.915))",
+  "dcat_bbox": "ENVELOPE(-87.663,-87.594,41.915,41.840)",
+  "dcat_centroid": "41.8775,-87.6285",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +49,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a2e719f0-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,8 +25,7 @@
     "Maps",
     "Olney (Ill.)",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1949"
@@ -40,8 +39,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-88.25 38.75, -88 38.75, -88 38.5, -88.25 38.5, -88.25 38.75))",
-  "dcat_bbox": "ENVELOPE(-88.25,-88,38.75,38.5)",
+  "locn_geometry": "POLYGON((-88.250 38.750, -88.000 38.750, -88.000 38.500, -88.250 38.500, -88.250 38.750))",
+  "dcat_bbox": "ENVELOPE(-88.250,-88.000,38.750,38.500)",
   "dcat_centroid": "38.625,-88.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -59,6 +58,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9b4eb0a0-82d4-0134-1f08-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }

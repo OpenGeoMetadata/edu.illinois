@@ -25,14 +25,12 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "2022-07-26-language",
     "Illinois",
     "Maps",
     "Monroe",
     "Topographic maps",
     "Topography",
-    "Wisconsin",
-    "2022-creator-sprint"
+    "Wisconsin"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -66,6 +64,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/92712540-82d4-0134-1f08-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

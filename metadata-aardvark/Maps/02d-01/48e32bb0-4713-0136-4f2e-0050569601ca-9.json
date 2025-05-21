@@ -14,12 +14,9 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Maps",
     "Ohio",
     "Illinois",
-    "Indiana",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Indiana"
   ],
   "dct_temporal_sm": [
     "1834"
@@ -54,6 +51,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/48e32bb0-4713-0136-4f2e-0050569601ca-9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

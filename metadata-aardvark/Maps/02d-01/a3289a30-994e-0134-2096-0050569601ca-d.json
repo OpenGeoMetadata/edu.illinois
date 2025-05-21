@@ -19,8 +19,7 @@
     "Wisconsin",
     "Michigan",
     "Middle West",
-    "Saint Mary's River (Mich. and Ont.)",
-    "2022-creator-sprint"
+    "Saint Mary's River (Mich. and Ont.)"
   ],
   "dct_temporal_sm": [
     "1836"
@@ -55,6 +54,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a3289a30-994e-0134-2096-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

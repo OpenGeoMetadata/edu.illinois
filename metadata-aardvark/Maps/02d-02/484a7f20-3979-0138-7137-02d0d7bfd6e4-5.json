@@ -27,9 +27,6 @@
   "gbl_resourceType_sm": [
     "Fire insurance maps"
   ],
-  "dcat_keyword_sm": [
-    "W 87掳39使/N 41掳51使"
-  ],
   "dct_temporal_sm": [
     "1924"
   ],
@@ -69,6 +66,5 @@
     "oai:digital.library.illinois.edu:484a7f20-3979-0138-7137-02d0d7bfd6e4-5",
     "7272299"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:03:31Z",
   "gbl_mdVersion_s": "Aardvark"
 }

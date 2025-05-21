@@ -25,9 +25,6 @@
   "gbl_resourceType_sm": [
     "Fire insurance maps"
   ],
-  "dcat_keyword_sm": [
-    "W 90鈦�使28屎/N 39鈦�使08屎"
-  ],
   "dct_temporal_sm": [
     "1924"
   ],
@@ -67,6 +64,5 @@
     "oai:digital.library.illinois.edu:479fc0f0-3979-0138-7137-02d0d7bfd6e4-6",
     "1622225"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:03:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

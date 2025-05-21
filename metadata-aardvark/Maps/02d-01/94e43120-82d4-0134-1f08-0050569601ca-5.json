@@ -24,12 +24,10 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "Maps",
     "Barry (Ill.)",
     "Illinois",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1931"
@@ -43,8 +41,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-91.25 39.75, -91 39.75, -91 39.5, -91.25 39.5, -91.25 39.75))",
-  "dcat_bbox": "ENVELOPE(-91.25,-91,39.75,39.5)",
+  "locn_geometry": "POLYGON((-91.250 39.750, -91.000 39.750, -91.000 39.500, -91.250 39.500, -91.250 39.750))",
+  "dcat_bbox": "ENVELOPE(-91.250,-91.000,39.750,39.500)",
   "dcat_centroid": "39.625,-91.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/94e43120-82d4-0134-1f08-0050569601ca-5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

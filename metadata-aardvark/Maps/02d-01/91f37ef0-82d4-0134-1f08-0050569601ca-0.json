@@ -28,8 +28,7 @@
     "Maps",
     "Topographic maps",
     "Topography",
-    "Watseka",
-    "2022-creator-sprint"
+    "Watseka"
   ],
   "dct_temporal_sm": [
     "1939"
@@ -63,6 +62,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/91f37ef0-82d4-0134-1f08-0050569601ca-0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

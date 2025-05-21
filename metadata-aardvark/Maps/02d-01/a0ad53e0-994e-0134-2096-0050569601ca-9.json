@@ -20,9 +20,7 @@
     "Illinois",
     "Indiana",
     "Maps",
-    "Missouri",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Missouri"
   ],
   "dct_temporal_sm": [
     "1833"
@@ -38,9 +36,9 @@
     "Indiana",
     "Missouri"
   ],
-  "locn_geometry": "POLYGON((-91.513079 42.508481, -87.494756 42.508481, -87.494756  36.970298, -91.513079  36.970298, -91.513079 42.508481))",
-  "dcat_bbox": "ENVELOPE(-91.513079,-87.494756,42.508481, 36.970298)",
-  "dcat_centroid": "39.7393895,-89.5039175",
+  "locn_geometry": "POLYGON((-91.513 42.508, -87.495 42.508, -87.495 36.970, -91.513 36.970, -91.513 42.508))",
+  "dcat_bbox": "ENVELOPE(-91.513,-87.495,42.508,36.970)",
+  "dcat_centroid": "39.739000000000004,-89.504",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +55,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a0ad53e0-994e-0134-2096-0050569601ca-9"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

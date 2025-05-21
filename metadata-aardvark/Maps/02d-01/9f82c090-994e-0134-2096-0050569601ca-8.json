@@ -15,11 +15,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Maps",
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "1830"
   ],
@@ -32,9 +27,9 @@
   "dct_spatial_sm": [
     "Illinois and Michigan Canal"
   ],
-  "locn_geometry": "POLYGON((-87.567915 41.866198, -86.66429 41.866198, -86.66429 41.76731, -87.567915 41.76731, -87.567915 41.866198))",
-  "dcat_bbox": "ENVELOPE(-87.567915,-86.66429,41.866198,41.76731)",
-  "dcat_centroid": "41.816754,-87.1161025",
+  "locn_geometry": "POLYGON((-87.568 41.866, -86.664 41.866, -86.664 41.767, -87.568 41.767, -87.568 41.866))",
+  "dcat_bbox": "ENVELOPE(-87.568,-86.664,41.866,41.767)",
+  "dcat_centroid": "41.816500000000005,-87.116",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +46,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9f82c090-994e-0134-2096-0050569601ca-8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

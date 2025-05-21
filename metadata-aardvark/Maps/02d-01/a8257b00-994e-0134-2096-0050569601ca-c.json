@@ -28,11 +28,9 @@
     "Cairo (Ill.)",
     "Illinois",
     "Kentucky",
-    "Maps",
     "Missouri",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1933"
@@ -67,6 +65,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a8257b00-994e-0134-2096-0050569601ca-c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

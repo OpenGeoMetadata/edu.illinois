@@ -23,9 +23,7 @@
     "Geology",
     "Indians of North America",
     "Maps",
-    "Middle West",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Middle West"
   ],
   "dct_temporal_sm": [
     "1836"
@@ -43,9 +41,9 @@
     "Missouri",
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-95.9032 45.2631, -87.581 45.2631, -87.581 39.9222, -95.9032 39.9222, -95.9032 45.2631))",
-  "dcat_bbox": "ENVELOPE(-95.9032,-87.581,45.2631,39.9222)",
-  "dcat_centroid": "42.59265,-91.7421",
+  "locn_geometry": "POLYGON((-95.903 45.263, -87.581 45.263, -87.581 39.922, -95.903 39.922, -95.903 45.263))",
+  "dcat_bbox": "ENVELOPE(-95.903,-87.581,45.263,39.922)",
+  "dcat_centroid": "42.5925,-91.742",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -62,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a7cd9990-994e-0134-2096-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

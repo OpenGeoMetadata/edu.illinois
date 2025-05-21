@@ -22,9 +22,7 @@
   "dcat_keyword_sm": [
     "Early works to 1800",
     "North America",
-    "South America--Maps",
-    "2022-creator-sprint",
-    "202212bbox"
+    "South America--Maps"
   ],
   "dct_temporal_sm": [
     "1739"
@@ -58,6 +56,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9f2003d0-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

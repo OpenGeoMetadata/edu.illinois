@@ -27,9 +27,7 @@
     "Topography",
     "Delavan (Ill.)",
     "Illinois",
-    "Maps",
-    "Topographic maps",
-    "2022-creator-sprint"
+    "Topographic maps"
   ],
   "dct_temporal_sm": [
     "1942"
@@ -62,6 +60,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/98397290-82d4-0134-1f08-0050569601ca-f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

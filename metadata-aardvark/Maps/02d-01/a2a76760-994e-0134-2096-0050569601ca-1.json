@@ -17,8 +17,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "State)--Maps",
-    "2022-creator-sprint"
+    "State)--Maps"
   ],
   "dct_temporal_sm": [
     "1867"
@@ -51,6 +50,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a2a76760-994e-0134-2096-0050569601ca-1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

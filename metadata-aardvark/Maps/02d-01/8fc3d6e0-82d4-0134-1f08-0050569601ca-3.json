@@ -19,9 +19,7 @@
   "dcat_keyword_sm": [
     "Indians of North America",
     "Maps",
-    "United States",
-    "2022-creator-sprint",
-    "202212bbox"
+    "United States"
   ],
   "dct_temporal_sm": [
     "1801"
@@ -55,6 +53,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/8fc3d6e0-82d4-0134-1f08-0050569601ca-3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

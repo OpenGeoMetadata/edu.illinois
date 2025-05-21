@@ -28,8 +28,7 @@
     "Maps",
     "Topographic maps",
     "Topography",
-    "Vienna (Ill.)",
-    "2022-creator-sprint"
+    "Vienna (Ill.)"
   ],
   "dct_temporal_sm": [
     "1919"
@@ -43,8 +42,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-89 37.5, -88.75 37.5, -88.75 37.25, -89 37.25, -89 37.5))",
-  "dcat_bbox": "ENVELOPE(-89,-88.75,37.5,37.25)",
+  "locn_geometry": "POLYGON((-89.000 37.500, -88.750 37.500, -88.750 37.250, -89.000 37.250, -89.000 37.500))",
+  "dcat_bbox": "ENVELOPE(-89.000,-88.750,37.500,37.250)",
   "dcat_centroid": "37.375,-88.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +61,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a88482d0-994e-0134-2096-0050569601ca-d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,10 +27,8 @@
     "Geneseo (Ill.)",
     "Henry County (Ill.)",
     "Illinois",
-    "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1934"
@@ -45,8 +43,8 @@
     "Illinois--Henry County",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-90.25 41.5, -90 41.5, -90 41.25, -90.25 41.25, -90.25 41.5))",
-  "dcat_bbox": "ENVELOPE(-90.25,-90,41.5,41.25)",
+  "locn_geometry": "POLYGON((-90.250 41.500, -90.000 41.500, -90.000 41.250, -90.250 41.250, -90.250 41.500))",
+  "dcat_bbox": "ENVELOPE(-90.250,-90.000,41.500,41.250)",
   "dcat_centroid": "41.375,-90.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -64,6 +62,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a80ba9d0-994e-0134-2096-0050569601ca-5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

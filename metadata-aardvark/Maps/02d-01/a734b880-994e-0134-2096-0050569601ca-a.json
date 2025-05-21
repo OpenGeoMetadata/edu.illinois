@@ -17,13 +17,10 @@
     "Campaigns",
     "Illinois",
     "Indians of North America",
-    "Maps",
     "manuscript",
     "Sauk Indians",
     "Wars - 1815-1875",
-    "Wisconsin",
-    "2022-creator-sprint",
-    "202212bbox"
+    "Wisconsin"
   ],
   "dct_temporal_sm": [
     "1832"
@@ -34,9 +31,9 @@
   "gbl_dateRange_drsim": [
     "[1832 TO 1832]"
   ],
-  "locn_geometry": "POLYGON((-88.46366 40.40061, -87.92876 40.40061, -87.92876 39.87909, -88.46366 39.87909, -88.46366 40.40061))",
-  "dcat_bbox": "ENVELOPE(-88.46366,-87.92876,40.40061,39.87909)",
-  "dcat_centroid": "40.139849999999996,-88.19621000000001",
+  "locn_geometry": "POLYGON((-88.464 40.401, -87.929 40.401, -87.929 39.879, -88.464 39.879, -88.464 40.401))",
+  "dcat_bbox": "ENVELOPE(-88.464,-87.929,40.401,39.879)",
+  "dcat_centroid": "40.14,-88.1965",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +50,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a734b880-994e-0134-2096-0050569601ca-a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,10 +27,8 @@
     "East Dubuque",
     "Illinois",
     "Iowa",
-    "Maps",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1940"
@@ -64,6 +62,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/94bafbc0-82d4-0134-1f08-0050569601ca-0"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

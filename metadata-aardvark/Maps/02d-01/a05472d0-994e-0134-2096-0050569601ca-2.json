@@ -29,8 +29,7 @@
     "Maps",
     "Missouri",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1931"
@@ -64,6 +63,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a05472d0-994e-0134-2096-0050569601ca-2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

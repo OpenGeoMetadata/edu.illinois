@@ -21,13 +21,11 @@
     "Topographic maps"
   ],
   "dcat_keyword_sm": [
-    "2022-07-26-language",
     "Illinois",
     "Maps",
     "Topographic maps",
     "Topography",
-    "Xenia (Ill.)",
-    "2022-creator-sprint"
+    "Xenia (Ill.)"
   ],
   "dct_temporal_sm": [
     "1954"
@@ -60,6 +58,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/906d6ec0-82d4-0134-1f08-0050569601ca-a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

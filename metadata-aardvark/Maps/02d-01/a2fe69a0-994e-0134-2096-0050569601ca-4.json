@@ -28,8 +28,7 @@
     "Illinois",
     "Maps",
     "Mount Olive (Ill.)",
-    "Topographic maps",
-    "2022-creator-sprint"
+    "Topographic maps"
   ],
   "dct_temporal_sm": [
     "1915"
@@ -43,8 +42,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-89.75 39.25, -89.5 39.25, -89.5 39, -89.75 39, -89.75 39.25))",
-  "dcat_bbox": "ENVELOPE(-89.75,-89.5,39.25,39)",
+  "locn_geometry": "POLYGON((-89.750 39.250, -89.500 39.250, -89.500 39.000, -89.750 39.000, -89.750 39.250))",
+  "dcat_bbox": "ENVELOPE(-89.750,-89.500,39.250,39.000)",
   "dcat_centroid": "39.125,-89.625",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -62,6 +61,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a2fe69a0-994e-0134-2096-0050569601ca-4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:45Z",
   "gbl_mdVersion_s": "Aardvark"
 }

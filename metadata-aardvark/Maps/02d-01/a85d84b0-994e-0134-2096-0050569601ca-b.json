@@ -24,8 +24,7 @@
     "Maps",
     "Mendota (Ill.)",
     "Topographic maps",
-    "Topography",
-    "2022-creator-sprint"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1954"
@@ -39,8 +38,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-89.25 41.75, -89 41.75, -89 41.5, -89.25 41.5, -89.25 41.75))",
-  "dcat_bbox": "ENVELOPE(-89.25,-89,41.75,41.5)",
+  "locn_geometry": "POLYGON((-89.250 41.750, -89.000 41.750, -89.000 41.500, -89.250 41.500, -89.250 41.750))",
+  "dcat_bbox": "ENVELOPE(-89.250,-89.000,41.750,41.500)",
   "dcat_centroid": "41.625,-89.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -58,6 +57,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a85d84b0-994e-0134-2096-0050569601ca-b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

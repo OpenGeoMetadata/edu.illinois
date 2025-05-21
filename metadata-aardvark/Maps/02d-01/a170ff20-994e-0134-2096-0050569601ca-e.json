@@ -18,8 +18,7 @@
   ],
   "dcat_keyword_sm": [
     "Illinois",
-    "Maps",
-    "2022-creator-sprint"
+    "Maps"
   ],
   "dct_temporal_sm": [
     "1882"
@@ -33,8 +32,8 @@
   "dct_spatial_sm": [
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-91.513  42.508, -87.494  42.508, -87.494 36.97, -91.513 36.97, -91.513  42.508))",
-  "dcat_bbox": "ENVELOPE(-91.513,-87.494, 42.508,36.97)",
+  "locn_geometry": "POLYGON((-91.513 42.508, -87.494 42.508, -87.494 36.970, -91.513 36.970, -91.513 42.508))",
+  "dcat_bbox": "ENVELOPE(-91.513,-87.494,42.508,36.970)",
   "dcat_centroid": "39.739000000000004,-89.5035",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -52,6 +51,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/a170ff20-994e-0134-2096-0050569601ca-e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

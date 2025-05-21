@@ -18,10 +18,7 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Maps",
-    "United States",
-    "2022-creator-sprint",
-    "202212bbox"
+    "United States"
   ],
   "dct_temporal_sm": [
     "1796"
@@ -54,6 +51,5 @@
   "dct_identifier_sm": [
     "https://digital.library.illinois.edu/items/9f26a0c0-994e-0134-2096-0050569601ca-5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }
